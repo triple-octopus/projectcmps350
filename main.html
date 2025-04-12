@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QU Student Portal - Main</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>QU Student Portal</h1>
+        <p>Student ID: <span id="student-id"></span></p>
+        <nav>
+            <button id="logout-btn">Logout</button>
+        </nav>
+    </header>
+    <main>
+        <section id="welcome-section">
+            <h2>Welcome, <span id="student-name"></span></h2>
+        </section>
+
+        <section id="registered-courses-section" class="course-section">
+            <h2>My Registered Courses</h2>
+            <div id="registered-courses-container" class="courses-grid">
+            </div>
+        </section>
+        <section id="available-courses-section" class="course-section">
+            <h2>Available Courses</h2>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search by course name...">
+                <select id="category-select">
+                    <option value="">All Categories</option>
+                    <option value="Programming">Programming</option>
+                    <option value="Databases">Databases</option>
+                    <option value="Algorithms">Algorithms</option>
+                    <option value="Security">Security</option>
+                </select>
+                <button id="search-btn">Search</button>
+            </div>
+            <div id="available-courses-container" class="courses-grid">
+            </div>
+        </section>
+    </main>
+    <div id="modal-container"></div>
+    <script src="js/main.js"></script>
+</body>
+</html>

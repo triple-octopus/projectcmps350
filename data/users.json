@@ -1,0 +1,67 @@
+{
+    "students": [
+      {
+        "username": "student1",
+        "password": "pass123",
+        "name": "Ali Ahmed",
+        "id": "20201234",
+        "completedCourses": [
+          {"courseCode": "CMPS151", "grade": "A"},
+          {"courseCode": "CMPS152", "grade": "B+"}
+        ],
+        "registeredCourses": ["CMPS251"],
+        "pendingCourses": ["CMPS350"]
+      },
+      {
+        "username": "student2",
+        "password": "pass456",
+        "name": "Fatima Mohammed",
+        "id": "20205678",
+        "completedCourses": [
+          {"courseCode": "CMPS151", "grade": "B"},
+          {"courseCode": "CMPS152", "grade": "A-"}
+        ],
+        "registeredCourses": ["CMPS251", "CMPS252"],
+        "pendingCourses": []
+      },
+      {
+        "username": "student3",
+        "password": "pass",
+        "name": "Fatima Ahmed",
+        "id": "20205678",
+        "completedCourses": [
+          {"courseCode": "CMPS151", "grade": "B"},
+          {"courseCode": "CMPS152", "grade": "B"}
+        ],
+        "registeredCourses": [],
+        "pendingCourses": []
+      }
+    ],
+    "instructors": [
+      {
+        "username": "prof1",
+        "password": "teach123",
+        "name": "Dr. Smith",
+        "expertise": ["Programming", "Databases"]
+      },
+      {
+        "username": "prof2",
+        "password": "teach456",
+        "name": "Dr. Johnson",
+        "expertise": ["Algorithms", "Security"]
+      },
+      {
+        "username": "prof3",
+        "password": "teach789",
+        "name": "Dr. Williams",
+        "expertise": ["Networking", "Systems"]
+      }
+    ],
+    "admins": [
+      {
+        "username": "admin1",
+        "password": "admin123",
+        "name": "Admin User"
+      }
+    ]
+  }

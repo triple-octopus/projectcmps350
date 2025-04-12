@@ -1,0 +1,122 @@
+{
+    "courses": [
+      {
+        "code": "CMPS151",
+        "name": "Programming Fundamentals",
+        "category": "Programming",
+        "prerequisites": [],
+        "status": "open",
+        "classes": [
+          {
+            "classId": "CMPS151-1",
+            "instructor": "prof1",
+            "schedule": "Sun/Tue 08:00-09:20",
+            "capacity": 30,
+            "registeredStudents": ["student1", "student2"],
+            "validated": true
+          }
+        ]
+      },
+      {
+        "code": "CMPS152",
+        "name": "Data Structures",
+        "category": "Programming",
+        "prerequisites": ["CMPS151"],
+        "status": "open",
+        "classes": [
+          {
+            "classId": "CMPS152-1",
+            "instructor": "prof2",
+            "schedule": "Mon/Wed 10:00-11:20",
+            "capacity": 25,
+            "registeredStudents": ["student1", "student2"],
+            "validated": true
+          }
+        ]
+      },
+      {
+        "code": "CMPS251",
+        "name": "Object-Oriented Programming",
+        "category": "Programming",
+        "prerequisites": ["CMPS152"],
+        "status": "open",
+        "classes": [
+          {
+            "classId": "CMPS251-1",
+            "instructor": "prof1",
+            "schedule": "Sun/Tue 10:00-11:20",
+            "capacity": 25,
+            "registeredStudents": ["student1", "student2"],
+            "validated": true
+          },
+          {
+            "classId": "CMPS251-2",
+            "instructor": "prof3",
+            "schedule": "Sun/Tue 14:00-15:20",
+            "capacity": 25,
+            "registeredStudents": [],
+            "validated": false
+          }
+        ]
+      },
+      {
+        "code": "CMPS252",
+        "name": "Database Systems",
+        "category": "Databases",
+        "prerequisites": ["CMPS251"],
+        "status": "open",
+        "classes": [
+          {
+            "classId": "CMPS252-1",
+            "instructor": "prof1",
+            "schedule": "Mon/Wed 14:00-15:20",
+            "capacity": 20,
+            "registeredStudents": ["student2"],
+            "validated": true
+          }
+        ]
+      },
+      {
+        "code": "CMPS350",
+        "name": "Web Development",
+        "category": "Programming",
+        "prerequisites": ["CMPS251", "CMPS252"],
+        "status": "open",
+        "classes": [
+          {
+            "classId": "CMPS350-1",
+            "instructor": "prof1",
+            "schedule": "Mon/Wed 10:00-11:20",
+            "capacity": 30,
+            "registeredStudents": ["student1"],
+            "validated": false
+          },
+          {
+            "classId": "CMPS350-2",
+            "instructor": "prof2",
+            "schedule": "Sun/Tue 14:00-15:20",
+            "capacity": 25,
+            "registeredStudents": [],
+            "validated": false
+          }
+        ]
+      },
+      {
+        "code": "CMPS351",
+        "name": "Advanced Programming",
+        "category": "Programming",
+        "prerequisites": ["CMPS251"],
+        "status": "in-progress",
+        "classes": [
+          {
+            "classId": "CMPS351-1",
+            "instructor": "prof3",
+            "schedule": "Mon/Wed 08:00-09:20",
+            "capacity": 20,
+            "registeredStudents": ["student2"],
+            "validated": true
+          }
+        ]
+      }
+    ]
+  }

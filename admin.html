@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>QU Admin Portal</h1>
+        <nav>
+            <button id="view-courses-btn">View Courses</button>
+            <button id="create-course-btn">Create Course</button>
+            <button id="logout-btn">Logout</button>
+        </nav>
+    </header>
+
+    <main>
+        <section id="welcome-section">
+            <h2>Welcome, <span id="admin-name"></span></h2>
+        </section>
+
+        <section id="courses-section" class="admin-section">
+            <h2>Course Management</h2>
+            <div class="filter-controls">
+                <select id="course-status-filter">
+                    <option value="all">All Statuses</option>
+                    <option value="open">Open for Registration</option>
+                    <option value="in-progress">In Progress</option>
+                    <option value="pending">Pending Validation</option>
+                </select>
+                <button id="refresh-btn">Refresh</button>
+            </div>
+            <div id="courses-container" class="admin-grid"></div>
+        </section>
+
+        <section id="create-course-section" class="admin-section" style="display:none;">
+            <h2>Create New Course</h2>
+            <form id="course-creation-form">
+                <div class="form-group">
+                    <label for="course-code">Course Code</label>
+                    <input type="text" id="course-code" required>
+                </div>
+                <div class="form-group">
+                    <label for="course-name">Course Name</label>
+                    <input type="text" id="course-name" required>
+                </div>
+                <div class="form-group">
+                    <label for="course-category">Category</label>
+                    <input type="text" id="course-category" required>
+                </div>
+                <div class="form-group">
+                    <label for="course-prerequisites">Prerequisites (comma separated)</label>
+                    <input type="text" id="course-prerequisites">
+                </div>
+                <button type="submit">Create Course</button>
+            </form>
+        </section>
+    </main>
+
+    <div id="modal-container"></div>
+
+    <script src="../js/admin.js"></script>
+</body>
+</html>

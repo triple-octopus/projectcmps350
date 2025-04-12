@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QU Instructor Portal</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>QU Instructor Portal</h1>
+        <nav>
+            <button id="my-classes-btn">My Classes</button>
+            <button id="logout-btn">Logout</button>
+        </nav>
+    </header>
+
+    <main>
+        <section id="welcome-section">
+            <h2>Welcome, <span id="instructor-name"></span></h2>
+            <p>Expertise: <span id="instructor-expertise"></span></p>
+        </section>
+
+        <section id="classes-section">
+            <h2>My Classes</h2>
+            <div id="classes-container" class="classes-grid">
+            </div>
+        </section>
+    </main>
+
+    <div id="modal-container"></div>
+
+    <script src="../js/instructor.js"></script>
+</body>
+</html>
