@@ -1,0 +1,1681 @@
+{
+  "courses": [
+    {
+      "code": "COURSE001",
+      "name": "Course 1",
+      "category": "Databases",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE001-1",
+          "instructor": "instructor11",
+          "schedule": "TBD",
+          "capacity": 48,
+          "registeredStudents": [
+            "student012",
+            "student055",
+            "student059",
+            "student085",
+            "student154",
+            "student196",
+            "student249",
+            "student296",
+            "student310",
+            "student337",
+            "student358",
+            "student391",
+            "student428",
+            "student452",
+            "student461",
+            "student482"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE002",
+      "name": "Course 2",
+      "category": "Algorithms",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE002-1",
+          "instructor": "instructor17",
+          "schedule": "TBD",
+          "capacity": 49,
+          "registeredStudents": [
+            "student007",
+            "student067",
+            "student083",
+            "student183",
+            "student217",
+            "student254",
+            "student306",
+            "student316",
+            "student377",
+            "student460"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE003",
+      "name": "Course 3",
+      "category": "Security",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE003-1",
+          "instructor": "instructor16",
+          "schedule": "TBD",
+          "capacity": 23,
+          "registeredStudents": [
+            "student007",
+            "student018",
+            "student038",
+            "student154",
+            "student165",
+            "student166",
+            "student180",
+            "student191",
+            "student360",
+            "student380",
+            "student388",
+            "student433",
+            "student470",
+            "student492"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE004",
+      "name": "Course 4",
+      "category": "Networking",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE004-1",
+          "instructor": "instructor10",
+          "schedule": "TBD",
+          "capacity": 37,
+          "registeredStudents": [
+            "student037",
+            "student049",
+            "student097",
+            "student106",
+            "student111",
+            "student116",
+            "student118",
+            "student153",
+            "student228",
+            "student246",
+            "student339",
+            "student392",
+            "student443"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE005",
+      "name": "Course 5",
+      "category": "Programming",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE005-1",
+          "instructor": "instructor10",
+          "schedule": "TBD",
+          "capacity": 42,
+          "registeredStudents": [
+            "student053",
+            "student074",
+            "student088",
+            "student090",
+            "student122",
+            "student185",
+            "student198",
+            "student237",
+            "student244",
+            "student295",
+            "student342",
+            "student362",
+            "student368",
+            "student410",
+            "student429",
+            "student454",
+            "student479"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE006",
+      "name": "Course 6",
+      "category": "Databases",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE006-1",
+          "instructor": "instructor4",
+          "schedule": "TBD",
+          "capacity": 37,
+          "registeredStudents": [
+            "student007",
+            "student016",
+            "student026",
+            "student049",
+            "student153",
+            "student214",
+            "student268",
+            "student311",
+            "student316",
+            "student345",
+            "student374",
+            "student377",
+            "student383",
+            "student389",
+            "student403",
+            "student431",
+            "student481"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE007",
+      "name": "Course 7",
+      "category": "Algorithms",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE007-1",
+          "instructor": "instructor11",
+          "schedule": "TBD",
+          "capacity": 46,
+          "registeredStudents": [
+            "student016",
+            "student017",
+            "student094",
+            "student100",
+            "student106",
+            "student136",
+            "student145",
+            "student191",
+            "student290",
+            "student297",
+            "student329",
+            "student337",
+            "student385",
+            "student426",
+            "student438",
+            "student458",
+            "student486"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE008",
+      "name": "Course 8",
+      "category": "Security",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE008-1",
+          "instructor": "instructor18",
+          "schedule": "TBD",
+          "capacity": 26,
+          "registeredStudents": [
+            "student019",
+            "student058",
+            "student081",
+            "student193",
+            "student199",
+            "student323",
+            "student340",
+            "student371",
+            "student390",
+            "student398",
+            "student403",
+            "student404",
+            "student492",
+            "student494"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE009",
+      "name": "Course 9",
+      "category": "Networking",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE009-1",
+          "instructor": "instructor20",
+          "schedule": "TBD",
+          "capacity": 37,
+          "registeredStudents": [
+            "student048",
+            "student075",
+            "student092",
+            "student103",
+            "student132",
+            "student139",
+            "student155",
+            "student202",
+            "student230",
+            "student262",
+            "student336",
+            "student471",
+            "student474",
+            "student492"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE010",
+      "name": "Course 10",
+      "category": "Programming",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE010-1",
+          "instructor": "instructor19",
+          "schedule": "TBD",
+          "capacity": 29,
+          "registeredStudents": [
+            "student014",
+            "student064",
+            "student115",
+            "student171",
+            "student241",
+            "student298",
+            "student344",
+            "student404",
+            "student415",
+            "student428",
+            "student429",
+            "student450",
+            "student479"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE011",
+      "name": "Course 11",
+      "category": "Databases",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE011-1",
+          "instructor": "instructor15",
+          "schedule": "TBD",
+          "capacity": 22,
+          "registeredStudents": [
+            "student029",
+            "student034",
+            "student059",
+            "student065",
+            "student076",
+            "student109",
+            "student111",
+            "student119",
+            "student142",
+            "student156",
+            "student172",
+            "student211",
+            "student232",
+            "student256",
+            "student440",
+            "student476"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE012",
+      "name": "Course 12",
+      "category": "Algorithms",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE012-1",
+          "instructor": "instructor20",
+          "schedule": "TBD",
+          "capacity": 45,
+          "registeredStudents": [
+            "student103",
+            "student190",
+            "student204",
+            "student227",
+            "student262",
+            "student307",
+            "student339",
+            "student382",
+            "student446",
+            "student447",
+            "student474"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE013",
+      "name": "Course 13",
+      "category": "Security",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE013-1",
+          "instructor": "instructor13",
+          "schedule": "TBD",
+          "capacity": 30,
+          "registeredStudents": [
+            "student022",
+            "student101",
+            "student115",
+            "student194",
+            "student216",
+            "student275",
+            "student288",
+            "student326",
+            "student329",
+            "student392",
+            "student417",
+            "student457",
+            "student474"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE014",
+      "name": "Course 14",
+      "category": "Networking",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE014-1",
+          "instructor": "instructor19",
+          "schedule": "TBD",
+          "capacity": 27,
+          "registeredStudents": [
+            "student030",
+            "student042",
+            "student077",
+            "student092",
+            "student110",
+            "student130",
+            "student150",
+            "student151",
+            "student167",
+            "student207",
+            "student210",
+            "student246"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE015",
+      "name": "Course 15",
+      "category": "Programming",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE015-1",
+          "instructor": "instructor10",
+          "schedule": "TBD",
+          "capacity": 25,
+          "registeredStudents": [
+            "student003",
+            "student008",
+            "student011",
+            "student026",
+            "student081",
+            "student180",
+            "student182",
+            "student216",
+            "student227",
+            "student271",
+            "student330",
+            "student347",
+            "student360",
+            "student362",
+            "student403",
+            "student419",
+            "student436",
+            "student450",
+            "student463",
+            "student464",
+            "student489"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE016",
+      "name": "Course 16",
+      "category": "Databases",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE016-1",
+          "instructor": "instructor7",
+          "schedule": "TBD",
+          "capacity": 46,
+          "registeredStudents": [
+            "student003",
+            "student045",
+            "student069",
+            "student081",
+            "student093",
+            "student104",
+            "student131",
+            "student223",
+            "student228",
+            "student236",
+            "student277",
+            "student302",
+            "student304",
+            "student345",
+            "student355",
+            "student407",
+            "student445",
+            "student449",
+            "student458"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE017",
+      "name": "Course 17",
+      "category": "Algorithms",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE017-1",
+          "instructor": "instructor6",
+          "schedule": "TBD",
+          "capacity": 21,
+          "registeredStudents": [
+            "student044",
+            "student076",
+            "student113",
+            "student130",
+            "student131",
+            "student146",
+            "student194",
+            "student233",
+            "student322",
+            "student353",
+            "student389",
+            "student430",
+            "student451",
+            "student456",
+            "student476",
+            "student482"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE018",
+      "name": "Course 18",
+      "category": "Security",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE018-1",
+          "instructor": "instructor20",
+          "schedule": "TBD",
+          "capacity": 41,
+          "registeredStudents": [
+            "student014",
+            "student028",
+            "student035",
+            "student039",
+            "student091",
+            "student149",
+            "student154",
+            "student177",
+            "student185",
+            "student236",
+            "student238",
+            "student253",
+            "student267",
+            "student309",
+            "student322",
+            "student328",
+            "student333",
+            "student367",
+            "student382",
+            "student396",
+            "student412",
+            "student461"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE019",
+      "name": "Course 19",
+      "category": "Networking",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE019-1",
+          "instructor": "instructor9",
+          "schedule": "TBD",
+          "capacity": 35,
+          "registeredStudents": [
+            "student058",
+            "student113",
+            "student115",
+            "student207",
+            "student237",
+            "student316",
+            "student360",
+            "student361",
+            "student387",
+            "student397",
+            "student405",
+            "student443",
+            "student453",
+            "student459",
+            "student463",
+            "student477"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE020",
+      "name": "Course 20",
+      "category": "Programming",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE020-1",
+          "instructor": "instructor3",
+          "schedule": "TBD",
+          "capacity": 22,
+          "registeredStudents": [
+            "student069",
+            "student182",
+            "student200",
+            "student284",
+            "student318",
+            "student322",
+            "student331",
+            "student348",
+            "student349",
+            "student370",
+            "student372",
+            "student401",
+            "student414",
+            "student440",
+            "student455",
+            "student491"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE021",
+      "name": "Course 21",
+      "category": "Databases",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE021-1",
+          "instructor": "instructor5",
+          "schedule": "TBD",
+          "capacity": 48,
+          "registeredStudents": [
+            "student133",
+            "student192",
+            "student201",
+            "student239",
+            "student264",
+            "student302",
+            "student324",
+            "student376",
+            "student389",
+            "student417",
+            "student432",
+            "student473"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE022",
+      "name": "Course 22",
+      "category": "Algorithms",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE022-1",
+          "instructor": "instructor5",
+          "schedule": "TBD",
+          "capacity": 49,
+          "registeredStudents": [
+            "student014",
+            "student100",
+            "student187",
+            "student198",
+            "student245",
+            "student266",
+            "student306",
+            "student309",
+            "student384",
+            "student386",
+            "student416",
+            "student430",
+            "student431",
+            "student477"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE023",
+      "name": "Course 23",
+      "category": "Security",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE023-1",
+          "instructor": "instructor2",
+          "schedule": "TBD",
+          "capacity": 46,
+          "registeredStudents": [
+            "student017",
+            "student096",
+            "student139",
+            "student186",
+            "student192",
+            "student249",
+            "student308",
+            "student321",
+            "student384",
+            "student416",
+            "student455"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE024",
+      "name": "Course 24",
+      "category": "Networking",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE024-1",
+          "instructor": "instructor3",
+          "schedule": "TBD",
+          "capacity": 48,
+          "registeredStudents": [
+            "student029",
+            "student047",
+            "student141",
+            "student166",
+            "student197",
+            "student281",
+            "student297",
+            "student330",
+            "student444",
+            "student481",
+            "student484",
+            "student498"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE025",
+      "name": "Course 25",
+      "category": "Programming",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE025-1",
+          "instructor": "instructor18",
+          "schedule": "TBD",
+          "capacity": 41,
+          "registeredStudents": [
+            "student019",
+            "student035",
+            "student053",
+            "student111",
+            "student242",
+            "student247",
+            "student250",
+            "student254",
+            "student264",
+            "student408",
+            "student422",
+            "student457",
+            "student458",
+            "student485",
+            "student497"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE026",
+      "name": "Course 26",
+      "category": "Databases",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE026-1",
+          "instructor": "instructor13",
+          "schedule": "TBD",
+          "capacity": 46,
+          "registeredStudents": [
+            "student039",
+            "student043",
+            "student047",
+            "student079",
+            "student124",
+            "student184",
+            "student201",
+            "student205",
+            "student223",
+            "student288",
+            "student317",
+            "student372"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE027",
+      "name": "Course 27",
+      "category": "Algorithms",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE027-1",
+          "instructor": "instructor17",
+          "schedule": "TBD",
+          "capacity": 28,
+          "registeredStudents": [
+            "student093",
+            "student096",
+            "student173",
+            "student176",
+            "student203",
+            "student221",
+            "student245",
+            "student246",
+            "student267",
+            "student296",
+            "student384",
+            "student392",
+            "student406",
+            "student411",
+            "student419",
+            "student500"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE028",
+      "name": "Course 28",
+      "category": "Security",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE028-1",
+          "instructor": "instructor17",
+          "schedule": "TBD",
+          "capacity": 45,
+          "registeredStudents": [
+            "student096",
+            "student103",
+            "student157",
+            "student164",
+            "student294",
+            "student297",
+            "student298",
+            "student301",
+            "student320",
+            "student364",
+            "student444"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE029",
+      "name": "Course 29",
+      "category": "Networking",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE029-1",
+          "instructor": "instructor8",
+          "schedule": "TBD",
+          "capacity": 47,
+          "registeredStudents": [
+            "student011",
+            "student080",
+            "student142",
+            "student209",
+            "student231",
+            "student232",
+            "student233",
+            "student304",
+            "student338",
+            "student348",
+            "student359",
+            "student371",
+            "student374",
+            "student394",
+            "student415",
+            "student426",
+            "student470"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE030",
+      "name": "Course 30",
+      "category": "Programming",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE030-1",
+          "instructor": "instructor7",
+          "schedule": "TBD",
+          "capacity": 48,
+          "registeredStudents": [
+            "student028",
+            "student043",
+            "student054",
+            "student059",
+            "student104",
+            "student113",
+            "student133",
+            "student181",
+            "student209",
+            "student230",
+            "student256",
+            "student262",
+            "student265",
+            "student280",
+            "student301",
+            "student407",
+            "student417",
+            "student451",
+            "student456"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE031",
+      "name": "Course 31",
+      "category": "Databases",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE031-1",
+          "instructor": "instructor19",
+          "schedule": "TBD",
+          "capacity": 46,
+          "registeredStudents": [
+            "student093",
+            "student110",
+            "student180",
+            "student219",
+            "student249",
+            "student268",
+            "student278",
+            "student319",
+            "student338",
+            "student340",
+            "student381",
+            "student406",
+            "student421",
+            "student487"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE032",
+      "name": "Course 32",
+      "category": "Algorithms",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE032-1",
+          "instructor": "instructor14",
+          "schedule": "TBD",
+          "capacity": 38,
+          "registeredStudents": [
+            "student067",
+            "student110",
+            "student152",
+            "student223",
+            "student252",
+            "student254",
+            "student306",
+            "student307",
+            "student313",
+            "student315",
+            "student342",
+            "student383",
+            "student387",
+            "student398",
+            "student423",
+            "student494"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE033",
+      "name": "Course 33",
+      "category": "Security",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE033-1",
+          "instructor": "instructor9",
+          "schedule": "TBD",
+          "capacity": 34,
+          "registeredStudents": [
+            "student060",
+            "student061",
+            "student063",
+            "student090",
+            "student119",
+            "student138",
+            "student152",
+            "student193",
+            "student200",
+            "student210",
+            "student213",
+            "student295",
+            "student373",
+            "student391",
+            "student405",
+            "student412",
+            "student425",
+            "student475"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE034",
+      "name": "Course 34",
+      "category": "Networking",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE034-1",
+          "instructor": "instructor16",
+          "schedule": "TBD",
+          "capacity": 41,
+          "registeredStudents": [
+            "student054",
+            "student080",
+            "student119",
+            "student196",
+            "student235",
+            "student475"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE035",
+      "name": "Course 35",
+      "category": "Programming",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE035-1",
+          "instructor": "instructor12",
+          "schedule": "TBD",
+          "capacity": 22,
+          "registeredStudents": [
+            "student019",
+            "student033",
+            "student074",
+            "student077",
+            "student092",
+            "student102",
+            "student161",
+            "student187",
+            "student196",
+            "student239",
+            "student245",
+            "student251",
+            "student294",
+            "student300",
+            "student373",
+            "student415",
+            "student433",
+            "student453",
+            "student482",
+            "student496"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE036",
+      "name": "Course 36",
+      "category": "Databases",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE036-1",
+          "instructor": "instructor11",
+          "schedule": "TBD",
+          "capacity": 39,
+          "registeredStudents": [
+            "student055",
+            "student076",
+            "student106",
+            "student114",
+            "student157",
+            "student163",
+            "student170",
+            "student202",
+            "student205",
+            "student228",
+            "student232",
+            "student310",
+            "student313",
+            "student319",
+            "student356",
+            "student388",
+            "student407",
+            "student416",
+            "student481"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE037",
+      "name": "Course 37",
+      "category": "Algorithms",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE037-1",
+          "instructor": "instructor4",
+          "schedule": "TBD",
+          "capacity": 35,
+          "registeredStudents": [
+            "student022",
+            "student041",
+            "student071",
+            "student129",
+            "student136",
+            "student194",
+            "student221",
+            "student259",
+            "student287",
+            "student305",
+            "student337",
+            "student342",
+            "student349",
+            "student380",
+            "student418",
+            "student446",
+            "student459",
+            "student461"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE038",
+      "name": "Course 38",
+      "category": "Security",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE038-1",
+          "instructor": "instructor19",
+          "schedule": "TBD",
+          "capacity": 40,
+          "registeredStudents": [
+            "student011",
+            "student046",
+            "student047",
+            "student083",
+            "student084",
+            "student118",
+            "student126",
+            "student129",
+            "student163",
+            "student190",
+            "student208",
+            "student247",
+            "student259",
+            "student328",
+            "student348",
+            "student363",
+            "student382",
+            "student450",
+            "student455",
+            "student485",
+            "student499"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE039",
+      "name": "Course 39",
+      "category": "Networking",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE039-1",
+          "instructor": "instructor11",
+          "schedule": "TBD",
+          "capacity": 47,
+          "registeredStudents": [
+            "student017",
+            "student053",
+            "student054",
+            "student150",
+            "student193",
+            "student208",
+            "student251",
+            "student282",
+            "student291",
+            "student347",
+            "student359",
+            "student374",
+            "student376",
+            "student409"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE040",
+      "name": "Course 40",
+      "category": "Programming",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE040-1",
+          "instructor": "instructor7",
+          "schedule": "TBD",
+          "capacity": 27,
+          "registeredStudents": [
+            "student021",
+            "student136",
+            "student143",
+            "student171",
+            "student257",
+            "student300",
+            "student305",
+            "student347",
+            "student349",
+            "student393",
+            "student430",
+            "student433",
+            "student449",
+            "student465",
+            "student489"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE041",
+      "name": "Course 41",
+      "category": "Databases",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE041-1",
+          "instructor": "instructor1",
+          "schedule": "TBD",
+          "capacity": 43,
+          "registeredStudents": [
+            "student021",
+            "student028",
+            "student035",
+            "student051",
+            "student063",
+            "student221",
+            "student234",
+            "student236",
+            "student352",
+            "student363",
+            "student383",
+            "student394",
+            "student432",
+            "student435",
+            "student438",
+            "student451",
+            "student464",
+            "student467"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE042",
+      "name": "Course 42",
+      "category": "Algorithms",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE042-1",
+          "instructor": "instructor9",
+          "schedule": "TBD",
+          "capacity": 23,
+          "registeredStudents": [
+            "student042",
+            "student043",
+            "student057",
+            "student132",
+            "student143",
+            "student186",
+            "student208",
+            "student224",
+            "student271",
+            "student315",
+            "student366",
+            "student404",
+            "student422",
+            "student429",
+            "student431",
+            "student491"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE043",
+      "name": "Course 43",
+      "category": "Security",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE043-1",
+          "instructor": "instructor8",
+          "schedule": "TBD",
+          "capacity": 31,
+          "registeredStudents": [
+            "student030",
+            "student079",
+            "student129",
+            "student132",
+            "student145",
+            "student168",
+            "student176",
+            "student198",
+            "student199",
+            "student211",
+            "student213",
+            "student230",
+            "student255",
+            "student259",
+            "student305",
+            "student385",
+            "student391",
+            "student422",
+            "student452",
+            "student460",
+            "student498"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE044",
+      "name": "Course 44",
+      "category": "Networking",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE044-1",
+          "instructor": "instructor6",
+          "schedule": "TBD",
+          "capacity": 30,
+          "registeredStudents": [
+            "student031",
+            "student036",
+            "student052",
+            "student097",
+            "student151",
+            "student167",
+            "student187",
+            "student204",
+            "student210",
+            "student215",
+            "student255",
+            "student287",
+            "student291",
+            "student362",
+            "student378",
+            "student446",
+            "student449",
+            "student453",
+            "student466",
+            "student480",
+            "student484",
+            "student486"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE045",
+      "name": "Course 45",
+      "category": "Programming",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE045-1",
+          "instructor": "instructor14",
+          "schedule": "TBD",
+          "capacity": 46,
+          "registeredStudents": [
+            "student013",
+            "student031",
+            "student114",
+            "student178",
+            "student201",
+            "student227",
+            "student314",
+            "student321",
+            "student336",
+            "student359",
+            "student372",
+            "student387",
+            "student398",
+            "student440",
+            "student456",
+            "student491"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE046",
+      "name": "Course 46",
+      "category": "Databases",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE046-1",
+          "instructor": "instructor2",
+          "schedule": "TBD",
+          "capacity": 23,
+          "registeredStudents": [
+            "student010",
+            "student078",
+            "student157",
+            "student222",
+            "student237",
+            "student243",
+            "student288",
+            "student298",
+            "student315",
+            "student361",
+            "student400",
+            "student405",
+            "student432"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE047",
+      "name": "Course 47",
+      "category": "Algorithms",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE047-1",
+          "instructor": "instructor5",
+          "schedule": "TBD",
+          "capacity": 47,
+          "registeredStudents": [
+            "student018",
+            "student097",
+            "student100",
+            "student114",
+            "student192",
+            "student256",
+            "student299",
+            "student301",
+            "student312",
+            "student328",
+            "student414",
+            "student428",
+            "student471",
+            "student499"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE048",
+      "name": "Course 48",
+      "category": "Security",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE048-1",
+          "instructor": "instructor8",
+          "schedule": "TBD",
+          "capacity": 21,
+          "registeredStudents": [
+            "student004",
+            "student046",
+            "student156",
+            "student171",
+            "student175",
+            "student204",
+            "student211",
+            "student251",
+            "student320",
+            "student327",
+            "student376",
+            "student421",
+            "student436",
+            "student473",
+            "student477",
+            "student484",
+            "student498",
+            "student499"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE049",
+      "name": "Course 49",
+      "category": "Networking",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE049-1",
+          "instructor": "instructor19",
+          "schedule": "TBD",
+          "capacity": 40,
+          "registeredStudents": [
+            "student012",
+            "student015",
+            "student049",
+            "student060",
+            "student065",
+            "student074",
+            "student077",
+            "student214",
+            "student231",
+            "student233",
+            "student250",
+            "student266",
+            "student267",
+            "student313",
+            "student388",
+            "student393",
+            "student394",
+            "student438",
+            "student466",
+            "student479"
+          ],
+          "validated": false
+        }
+      ]
+    },
+    {
+      "code": "COURSE050",
+      "name": "Course 50",
+      "category": "Programming",
+      "prerequisites": [],
+      "status": "open",
+      "classes": [
+        {
+          "classId": "COURSE050-1",
+          "instructor": "instructor18",
+          "schedule": "TBD",
+          "capacity": 39,
+          "registeredStudents": [
+            "student025",
+            "student037",
+            "student057",
+            "student155",
+            "student170",
+            "student235",
+            "student247",
+            "student281",
+            "student390",
+            "student411",
+            "student419",
+            "student463"
+          ],
+          "validated": false
+        }
+      ]
+    }
+  ]
+}

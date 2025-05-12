@@ -1,0 +1,5874 @@
+{
+  "students": [
+    {
+      "username": "student001",
+      "password": "studpass001",
+      "name": "Student 001",
+      "id": "20250001",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student002",
+      "password": "studpass002",
+      "name": "Student 002",
+      "id": "20250002",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student003",
+      "password": "studpass003",
+      "name": "Student 003",
+      "id": "20250003",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE016-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student004",
+      "password": "studpass004",
+      "name": "Student 004",
+      "id": "20250004",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE048-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student005",
+      "password": "studpass005",
+      "name": "Student 005",
+      "id": "20250005",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student006",
+      "password": "studpass006",
+      "name": "Student 006",
+      "id": "20250006",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student007",
+      "password": "studpass007",
+      "name": "Student 007",
+      "id": "20250007",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE003-1",
+        "COURSE002-1",
+        "COURSE006-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student008",
+      "password": "studpass008",
+      "name": "Student 008",
+      "id": "20250008",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student009",
+      "password": "studpass009",
+      "name": "Student 009",
+      "id": "20250009",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student010",
+      "password": "studpass010",
+      "name": "Student 010",
+      "id": "20250010",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE046-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student011",
+      "password": "studpass011",
+      "name": "Student 011",
+      "id": "20250011",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE015-1",
+        "COURSE029-1",
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student012",
+      "password": "studpass012",
+      "name": "Student 012",
+      "id": "20250012",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE001-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student013",
+      "password": "studpass013",
+      "name": "Student 013",
+      "id": "20250013",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student014",
+      "password": "studpass014",
+      "name": "Student 014",
+      "id": "20250014",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE022-1",
+        "COURSE018-1",
+        "COURSE010-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student015",
+      "password": "studpass015",
+      "name": "Student 015",
+      "id": "20250015",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student016",
+      "password": "studpass016",
+      "name": "Student 016",
+      "id": "20250016",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1",
+        "COURSE006-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student017",
+      "password": "studpass017",
+      "name": "Student 017",
+      "id": "20250017",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1",
+        "COURSE023-1",
+        "COURSE039-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student018",
+      "password": "studpass018",
+      "name": "Student 018",
+      "id": "20250018",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE003-1",
+        "COURSE047-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student019",
+      "password": "studpass019",
+      "name": "Student 019",
+      "id": "20250019",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE035-1",
+        "COURSE008-1",
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student020",
+      "password": "studpass020",
+      "name": "Student 020",
+      "id": "20250020",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student021",
+      "password": "studpass021",
+      "name": "Student 021",
+      "id": "20250021",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1",
+        "COURSE040-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student022",
+      "password": "studpass022",
+      "name": "Student 022",
+      "id": "20250022",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE037-1",
+        "COURSE013-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student023",
+      "password": "studpass023",
+      "name": "Student 023",
+      "id": "20250023",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student024",
+      "password": "studpass024",
+      "name": "Student 024",
+      "id": "20250024",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student025",
+      "password": "studpass025",
+      "name": "Student 025",
+      "id": "20250025",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE050-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student026",
+      "password": "studpass026",
+      "name": "Student 026",
+      "id": "20250026",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE006-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student027",
+      "password": "studpass027",
+      "name": "Student 027",
+      "id": "20250027",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student028",
+      "password": "studpass028",
+      "name": "Student 028",
+      "id": "20250028",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1",
+        "COURSE030-1",
+        "COURSE041-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student029",
+      "password": "studpass029",
+      "name": "Student 029",
+      "id": "20250029",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE011-1",
+        "COURSE024-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student030",
+      "password": "studpass030",
+      "name": "Student 030",
+      "id": "20250030",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE014-1",
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student031",
+      "password": "studpass031",
+      "name": "Student 031",
+      "id": "20250031",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1",
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student032",
+      "password": "studpass032",
+      "name": "Student 032",
+      "id": "20250032",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student033",
+      "password": "studpass033",
+      "name": "Student 033",
+      "id": "20250033",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student034",
+      "password": "studpass034",
+      "name": "Student 034",
+      "id": "20250034",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE011-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student035",
+      "password": "studpass035",
+      "name": "Student 035",
+      "id": "20250035",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE025-1",
+        "COURSE018-1",
+        "COURSE041-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student036",
+      "password": "studpass036",
+      "name": "Student 036",
+      "id": "20250036",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student037",
+      "password": "studpass037",
+      "name": "Student 037",
+      "id": "20250037",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE050-1",
+        "COURSE004-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student038",
+      "password": "studpass038",
+      "name": "Student 038",
+      "id": "20250038",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE003-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student039",
+      "password": "studpass039",
+      "name": "Student 039",
+      "id": "20250039",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE026-1",
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student040",
+      "password": "studpass040",
+      "name": "Student 040",
+      "id": "20250040",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student041",
+      "password": "studpass041",
+      "name": "Student 041",
+      "id": "20250041",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE037-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student042",
+      "password": "studpass042",
+      "name": "Student 042",
+      "id": "20250042",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE014-1",
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student043",
+      "password": "studpass043",
+      "name": "Student 043",
+      "id": "20250043",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE026-1",
+        "COURSE042-1",
+        "COURSE030-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student044",
+      "password": "studpass044",
+      "name": "Student 044",
+      "id": "20250044",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE017-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student045",
+      "password": "studpass045",
+      "name": "Student 045",
+      "id": "20250045",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student046",
+      "password": "studpass046",
+      "name": "Student 046",
+      "id": "20250046",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE048-1",
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student047",
+      "password": "studpass047",
+      "name": "Student 047",
+      "id": "20250047",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE038-1",
+        "COURSE026-1",
+        "COURSE024-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student048",
+      "password": "studpass048",
+      "name": "Student 048",
+      "id": "20250048",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE009-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student049",
+      "password": "studpass049",
+      "name": "Student 049",
+      "id": "20250049",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE006-1",
+        "COURSE049-1",
+        "COURSE004-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student050",
+      "password": "studpass050",
+      "name": "Student 050",
+      "id": "20250050",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student051",
+      "password": "studpass051",
+      "name": "Student 051",
+      "id": "20250051",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student052",
+      "password": "studpass052",
+      "name": "Student 052",
+      "id": "20250052",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student053",
+      "password": "studpass053",
+      "name": "Student 053",
+      "id": "20250053",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE039-1",
+        "COURSE005-1",
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student054",
+      "password": "studpass054",
+      "name": "Student 054",
+      "id": "20250054",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE039-1",
+        "COURSE030-1",
+        "COURSE034-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student055",
+      "password": "studpass055",
+      "name": "Student 055",
+      "id": "20250055",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE036-1",
+        "COURSE001-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student056",
+      "password": "studpass056",
+      "name": "Student 056",
+      "id": "20250056",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student057",
+      "password": "studpass057",
+      "name": "Student 057",
+      "id": "20250057",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE050-1",
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student058",
+      "password": "studpass058",
+      "name": "Student 058",
+      "id": "20250058",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE008-1",
+        "COURSE019-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student059",
+      "password": "studpass059",
+      "name": "Student 059",
+      "id": "20250059",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE011-1",
+        "COURSE030-1",
+        "COURSE001-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student060",
+      "password": "studpass060",
+      "name": "Student 060",
+      "id": "20250060",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student061",
+      "password": "studpass061",
+      "name": "Student 061",
+      "id": "20250061",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student062",
+      "password": "studpass062",
+      "name": "Student 062",
+      "id": "20250062",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student063",
+      "password": "studpass063",
+      "name": "Student 063",
+      "id": "20250063",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1",
+        "COURSE033-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student064",
+      "password": "studpass064",
+      "name": "Student 064",
+      "id": "20250064",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE010-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student065",
+      "password": "studpass065",
+      "name": "Student 065",
+      "id": "20250065",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE049-1",
+        "COURSE011-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student066",
+      "password": "studpass066",
+      "name": "Student 066",
+      "id": "20250066",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student067",
+      "password": "studpass067",
+      "name": "Student 067",
+      "id": "20250067",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE032-1",
+        "COURSE002-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student068",
+      "password": "studpass068",
+      "name": "Student 068",
+      "id": "20250068",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student069",
+      "password": "studpass069",
+      "name": "Student 069",
+      "id": "20250069",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE020-1",
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student070",
+      "password": "studpass070",
+      "name": "Student 070",
+      "id": "20250070",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student071",
+      "password": "studpass071",
+      "name": "Student 071",
+      "id": "20250071",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE037-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student072",
+      "password": "studpass072",
+      "name": "Student 072",
+      "id": "20250072",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student073",
+      "password": "studpass073",
+      "name": "Student 073",
+      "id": "20250073",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student074",
+      "password": "studpass074",
+      "name": "Student 074",
+      "id": "20250074",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1",
+        "COURSE049-1",
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student075",
+      "password": "studpass075",
+      "name": "Student 075",
+      "id": "20250075",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE009-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student076",
+      "password": "studpass076",
+      "name": "Student 076",
+      "id": "20250076",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE036-1",
+        "COURSE011-1",
+        "COURSE017-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student077",
+      "password": "studpass077",
+      "name": "Student 077",
+      "id": "20250077",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE014-1",
+        "COURSE035-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student078",
+      "password": "studpass078",
+      "name": "Student 078",
+      "id": "20250078",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE046-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student079",
+      "password": "studpass079",
+      "name": "Student 079",
+      "id": "20250079",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE026-1",
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student080",
+      "password": "studpass080",
+      "name": "Student 080",
+      "id": "20250080",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE029-1",
+        "COURSE034-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student081",
+      "password": "studpass081",
+      "name": "Student 081",
+      "id": "20250081",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE008-1",
+        "COURSE016-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student082",
+      "password": "studpass082",
+      "name": "Student 082",
+      "id": "20250082",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student083",
+      "password": "studpass083",
+      "name": "Student 083",
+      "id": "20250083",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE002-1",
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student084",
+      "password": "studpass084",
+      "name": "Student 084",
+      "id": "20250084",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student085",
+      "password": "studpass085",
+      "name": "Student 085",
+      "id": "20250085",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE001-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student086",
+      "password": "studpass086",
+      "name": "Student 086",
+      "id": "20250086",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student087",
+      "password": "studpass087",
+      "name": "Student 087",
+      "id": "20250087",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student088",
+      "password": "studpass088",
+      "name": "Student 088",
+      "id": "20250088",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student089",
+      "password": "studpass089",
+      "name": "Student 089",
+      "id": "20250089",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student090",
+      "password": "studpass090",
+      "name": "Student 090",
+      "id": "20250090",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1",
+        "COURSE033-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student091",
+      "password": "studpass091",
+      "name": "Student 091",
+      "id": "20250091",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student092",
+      "password": "studpass092",
+      "name": "Student 092",
+      "id": "20250092",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE014-1",
+        "COURSE035-1",
+        "COURSE009-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student093",
+      "password": "studpass093",
+      "name": "Student 093",
+      "id": "20250093",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE016-1",
+        "COURSE031-1",
+        "COURSE027-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student094",
+      "password": "studpass094",
+      "name": "Student 094",
+      "id": "20250094",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student095",
+      "password": "studpass095",
+      "name": "Student 095",
+      "id": "20250095",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student096",
+      "password": "studpass096",
+      "name": "Student 096",
+      "id": "20250096",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE023-1",
+        "COURSE028-1",
+        "COURSE027-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student097",
+      "password": "studpass097",
+      "name": "Student 097",
+      "id": "20250097",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE047-1",
+        "COURSE004-1",
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student098",
+      "password": "studpass098",
+      "name": "Student 098",
+      "id": "20250098",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student099",
+      "password": "studpass099",
+      "name": "Student 099",
+      "id": "20250099",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student100",
+      "password": "studpass100",
+      "name": "Student 100",
+      "id": "20250100",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE047-1",
+        "COURSE022-1",
+        "COURSE007-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student101",
+      "password": "studpass101",
+      "name": "Student 101",
+      "id": "20250101",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE013-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student102",
+      "password": "studpass102",
+      "name": "Student 102",
+      "id": "20250102",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student103",
+      "password": "studpass103",
+      "name": "Student 103",
+      "id": "20250103",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE009-1",
+        "COURSE028-1",
+        "COURSE012-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student104",
+      "password": "studpass104",
+      "name": "Student 104",
+      "id": "20250104",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE030-1",
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student105",
+      "password": "studpass105",
+      "name": "Student 105",
+      "id": "20250105",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student106",
+      "password": "studpass106",
+      "name": "Student 106",
+      "id": "20250106",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE036-1",
+        "COURSE007-1",
+        "COURSE004-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student107",
+      "password": "studpass107",
+      "name": "Student 107",
+      "id": "20250107",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student108",
+      "password": "studpass108",
+      "name": "Student 108",
+      "id": "20250108",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student109",
+      "password": "studpass109",
+      "name": "Student 109",
+      "id": "20250109",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE011-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student110",
+      "password": "studpass110",
+      "name": "Student 110",
+      "id": "20250110",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE032-1",
+        "COURSE031-1",
+        "COURSE014-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student111",
+      "password": "studpass111",
+      "name": "Student 111",
+      "id": "20250111",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE004-1",
+        "COURSE011-1",
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student112",
+      "password": "studpass112",
+      "name": "Student 112",
+      "id": "20250112",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student113",
+      "password": "studpass113",
+      "name": "Student 113",
+      "id": "20250113",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE017-1",
+        "COURSE030-1",
+        "COURSE019-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student114",
+      "password": "studpass114",
+      "name": "Student 114",
+      "id": "20250114",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1",
+        "COURSE047-1",
+        "COURSE036-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student115",
+      "password": "studpass115",
+      "name": "Student 115",
+      "id": "20250115",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE010-1",
+        "COURSE013-1",
+        "COURSE019-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student116",
+      "password": "studpass116",
+      "name": "Student 116",
+      "id": "20250116",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE004-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student117",
+      "password": "studpass117",
+      "name": "Student 117",
+      "id": "20250117",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student118",
+      "password": "studpass118",
+      "name": "Student 118",
+      "id": "20250118",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE004-1",
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student119",
+      "password": "studpass119",
+      "name": "Student 119",
+      "id": "20250119",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1",
+        "COURSE034-1",
+        "COURSE011-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student120",
+      "password": "studpass120",
+      "name": "Student 120",
+      "id": "20250120",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student121",
+      "password": "studpass121",
+      "name": "Student 121",
+      "id": "20250121",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student122",
+      "password": "studpass122",
+      "name": "Student 122",
+      "id": "20250122",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student123",
+      "password": "studpass123",
+      "name": "Student 123",
+      "id": "20250123",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student124",
+      "password": "studpass124",
+      "name": "Student 124",
+      "id": "20250124",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE026-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student125",
+      "password": "studpass125",
+      "name": "Student 125",
+      "id": "20250125",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student126",
+      "password": "studpass126",
+      "name": "Student 126",
+      "id": "20250126",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student127",
+      "password": "studpass127",
+      "name": "Student 127",
+      "id": "20250127",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student128",
+      "password": "studpass128",
+      "name": "Student 128",
+      "id": "20250128",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student129",
+      "password": "studpass129",
+      "name": "Student 129",
+      "id": "20250129",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE043-1",
+        "COURSE038-1",
+        "COURSE037-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student130",
+      "password": "studpass130",
+      "name": "Student 130",
+      "id": "20250130",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE017-1",
+        "COURSE014-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student131",
+      "password": "studpass131",
+      "name": "Student 131",
+      "id": "20250131",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE016-1",
+        "COURSE017-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student132",
+      "password": "studpass132",
+      "name": "Student 132",
+      "id": "20250132",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE009-1",
+        "COURSE043-1",
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student133",
+      "password": "studpass133",
+      "name": "Student 133",
+      "id": "20250133",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE030-1",
+        "COURSE021-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student134",
+      "password": "studpass134",
+      "name": "Student 134",
+      "id": "20250134",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student135",
+      "password": "studpass135",
+      "name": "Student 135",
+      "id": "20250135",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student136",
+      "password": "studpass136",
+      "name": "Student 136",
+      "id": "20250136",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE040-1",
+        "COURSE037-1",
+        "COURSE007-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student137",
+      "password": "studpass137",
+      "name": "Student 137",
+      "id": "20250137",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student138",
+      "password": "studpass138",
+      "name": "Student 138",
+      "id": "20250138",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student139",
+      "password": "studpass139",
+      "name": "Student 139",
+      "id": "20250139",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE009-1",
+        "COURSE023-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student140",
+      "password": "studpass140",
+      "name": "Student 140",
+      "id": "20250140",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student141",
+      "password": "studpass141",
+      "name": "Student 141",
+      "id": "20250141",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE024-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student142",
+      "password": "studpass142",
+      "name": "Student 142",
+      "id": "20250142",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE011-1",
+        "COURSE029-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student143",
+      "password": "studpass143",
+      "name": "Student 143",
+      "id": "20250143",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE040-1",
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student144",
+      "password": "studpass144",
+      "name": "Student 144",
+      "id": "20250144",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student145",
+      "password": "studpass145",
+      "name": "Student 145",
+      "id": "20250145",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE043-1",
+        "COURSE007-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student146",
+      "password": "studpass146",
+      "name": "Student 146",
+      "id": "20250146",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE017-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student147",
+      "password": "studpass147",
+      "name": "Student 147",
+      "id": "20250147",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student148",
+      "password": "studpass148",
+      "name": "Student 148",
+      "id": "20250148",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student149",
+      "password": "studpass149",
+      "name": "Student 149",
+      "id": "20250149",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student150",
+      "password": "studpass150",
+      "name": "Student 150",
+      "id": "20250150",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE039-1",
+        "COURSE014-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student151",
+      "password": "studpass151",
+      "name": "Student 151",
+      "id": "20250151",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE014-1",
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student152",
+      "password": "studpass152",
+      "name": "Student 152",
+      "id": "20250152",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1",
+        "COURSE032-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student153",
+      "password": "studpass153",
+      "name": "Student 153",
+      "id": "20250153",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE004-1",
+        "COURSE006-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student154",
+      "password": "studpass154",
+      "name": "Student 154",
+      "id": "20250154",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1",
+        "COURSE003-1",
+        "COURSE001-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student155",
+      "password": "studpass155",
+      "name": "Student 155",
+      "id": "20250155",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE050-1",
+        "COURSE009-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student156",
+      "password": "studpass156",
+      "name": "Student 156",
+      "id": "20250156",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE011-1",
+        "COURSE048-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student157",
+      "password": "studpass157",
+      "name": "Student 157",
+      "id": "20250157",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE036-1",
+        "COURSE046-1",
+        "COURSE028-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student158",
+      "password": "studpass158",
+      "name": "Student 158",
+      "id": "20250158",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student159",
+      "password": "studpass159",
+      "name": "Student 159",
+      "id": "20250159",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student160",
+      "password": "studpass160",
+      "name": "Student 160",
+      "id": "20250160",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student161",
+      "password": "studpass161",
+      "name": "Student 161",
+      "id": "20250161",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student162",
+      "password": "studpass162",
+      "name": "Student 162",
+      "id": "20250162",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student163",
+      "password": "studpass163",
+      "name": "Student 163",
+      "id": "20250163",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE038-1",
+        "COURSE036-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student164",
+      "password": "studpass164",
+      "name": "Student 164",
+      "id": "20250164",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE028-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student165",
+      "password": "studpass165",
+      "name": "Student 165",
+      "id": "20250165",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE003-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student166",
+      "password": "studpass166",
+      "name": "Student 166",
+      "id": "20250166",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE024-1",
+        "COURSE003-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student167",
+      "password": "studpass167",
+      "name": "Student 167",
+      "id": "20250167",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE014-1",
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student168",
+      "password": "studpass168",
+      "name": "Student 168",
+      "id": "20250168",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student169",
+      "password": "studpass169",
+      "name": "Student 169",
+      "id": "20250169",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student170",
+      "password": "studpass170",
+      "name": "Student 170",
+      "id": "20250170",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE050-1",
+        "COURSE036-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student171",
+      "password": "studpass171",
+      "name": "Student 171",
+      "id": "20250171",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE040-1",
+        "COURSE048-1",
+        "COURSE010-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student172",
+      "password": "studpass172",
+      "name": "Student 172",
+      "id": "20250172",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE011-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student173",
+      "password": "studpass173",
+      "name": "Student 173",
+      "id": "20250173",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE027-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student174",
+      "password": "studpass174",
+      "name": "Student 174",
+      "id": "20250174",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student175",
+      "password": "studpass175",
+      "name": "Student 175",
+      "id": "20250175",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE048-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student176",
+      "password": "studpass176",
+      "name": "Student 176",
+      "id": "20250176",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE027-1",
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student177",
+      "password": "studpass177",
+      "name": "Student 177",
+      "id": "20250177",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student178",
+      "password": "studpass178",
+      "name": "Student 178",
+      "id": "20250178",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student179",
+      "password": "studpass179",
+      "name": "Student 179",
+      "id": "20250179",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student180",
+      "password": "studpass180",
+      "name": "Student 180",
+      "id": "20250180",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE003-1",
+        "COURSE031-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student181",
+      "password": "studpass181",
+      "name": "Student 181",
+      "id": "20250181",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE030-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student182",
+      "password": "studpass182",
+      "name": "Student 182",
+      "id": "20250182",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE020-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student183",
+      "password": "studpass183",
+      "name": "Student 183",
+      "id": "20250183",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE002-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student184",
+      "password": "studpass184",
+      "name": "Student 184",
+      "id": "20250184",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE026-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student185",
+      "password": "studpass185",
+      "name": "Student 185",
+      "id": "20250185",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1",
+        "COURSE005-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student186",
+      "password": "studpass186",
+      "name": "Student 186",
+      "id": "20250186",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE023-1",
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student187",
+      "password": "studpass187",
+      "name": "Student 187",
+      "id": "20250187",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE044-1",
+        "COURSE035-1",
+        "COURSE022-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student188",
+      "password": "studpass188",
+      "name": "Student 188",
+      "id": "20250188",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student189",
+      "password": "studpass189",
+      "name": "Student 189",
+      "id": "20250189",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student190",
+      "password": "studpass190",
+      "name": "Student 190",
+      "id": "20250190",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE012-1",
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student191",
+      "password": "studpass191",
+      "name": "Student 191",
+      "id": "20250191",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE003-1",
+        "COURSE007-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student192",
+      "password": "studpass192",
+      "name": "Student 192",
+      "id": "20250192",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE023-1",
+        "COURSE047-1",
+        "COURSE021-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student193",
+      "password": "studpass193",
+      "name": "Student 193",
+      "id": "20250193",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE039-1",
+        "COURSE033-1",
+        "COURSE008-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student194",
+      "password": "studpass194",
+      "name": "Student 194",
+      "id": "20250194",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE037-1",
+        "COURSE013-1",
+        "COURSE017-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student195",
+      "password": "studpass195",
+      "name": "Student 195",
+      "id": "20250195",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student196",
+      "password": "studpass196",
+      "name": "Student 196",
+      "id": "20250196",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE001-1",
+        "COURSE034-1",
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student197",
+      "password": "studpass197",
+      "name": "Student 197",
+      "id": "20250197",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE024-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student198",
+      "password": "studpass198",
+      "name": "Student 198",
+      "id": "20250198",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1",
+        "COURSE043-1",
+        "COURSE022-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student199",
+      "password": "studpass199",
+      "name": "Student 199",
+      "id": "20250199",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE043-1",
+        "COURSE008-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student200",
+      "password": "studpass200",
+      "name": "Student 200",
+      "id": "20250200",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1",
+        "COURSE020-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student201",
+      "password": "studpass201",
+      "name": "Student 201",
+      "id": "20250201",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE021-1",
+        "COURSE026-1",
+        "COURSE045-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student202",
+      "password": "studpass202",
+      "name": "Student 202",
+      "id": "20250202",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE036-1",
+        "COURSE009-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student203",
+      "password": "studpass203",
+      "name": "Student 203",
+      "id": "20250203",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE027-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student204",
+      "password": "studpass204",
+      "name": "Student 204",
+      "id": "20250204",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE044-1",
+        "COURSE048-1",
+        "COURSE012-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student205",
+      "password": "studpass205",
+      "name": "Student 205",
+      "id": "20250205",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE026-1",
+        "COURSE036-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student206",
+      "password": "studpass206",
+      "name": "Student 206",
+      "id": "20250206",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student207",
+      "password": "studpass207",
+      "name": "Student 207",
+      "id": "20250207",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE019-1",
+        "COURSE014-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student208",
+      "password": "studpass208",
+      "name": "Student 208",
+      "id": "20250208",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE038-1",
+        "COURSE039-1",
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student209",
+      "password": "studpass209",
+      "name": "Student 209",
+      "id": "20250209",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE030-1",
+        "COURSE029-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student210",
+      "password": "studpass210",
+      "name": "Student 210",
+      "id": "20250210",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE044-1",
+        "COURSE014-1",
+        "COURSE033-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student211",
+      "password": "studpass211",
+      "name": "Student 211",
+      "id": "20250211",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE048-1",
+        "COURSE011-1",
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student212",
+      "password": "studpass212",
+      "name": "Student 212",
+      "id": "20250212",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student213",
+      "password": "studpass213",
+      "name": "Student 213",
+      "id": "20250213",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1",
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student214",
+      "password": "studpass214",
+      "name": "Student 214",
+      "id": "20250214",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE006-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student215",
+      "password": "studpass215",
+      "name": "Student 215",
+      "id": "20250215",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student216",
+      "password": "studpass216",
+      "name": "Student 216",
+      "id": "20250216",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE015-1",
+        "COURSE013-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student217",
+      "password": "studpass217",
+      "name": "Student 217",
+      "id": "20250217",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE002-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student218",
+      "password": "studpass218",
+      "name": "Student 218",
+      "id": "20250218",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student219",
+      "password": "studpass219",
+      "name": "Student 219",
+      "id": "20250219",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE031-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student220",
+      "password": "studpass220",
+      "name": "Student 220",
+      "id": "20250220",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student221",
+      "password": "studpass221",
+      "name": "Student 221",
+      "id": "20250221",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE027-1",
+        "COURSE041-1",
+        "COURSE037-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student222",
+      "password": "studpass222",
+      "name": "Student 222",
+      "id": "20250222",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE046-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student223",
+      "password": "studpass223",
+      "name": "Student 223",
+      "id": "20250223",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE032-1",
+        "COURSE026-1",
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student224",
+      "password": "studpass224",
+      "name": "Student 224",
+      "id": "20250224",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student225",
+      "password": "studpass225",
+      "name": "Student 225",
+      "id": "20250225",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student226",
+      "password": "studpass226",
+      "name": "Student 226",
+      "id": "20250226",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student227",
+      "password": "studpass227",
+      "name": "Student 227",
+      "id": "20250227",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE015-1",
+        "COURSE012-1",
+        "COURSE045-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student228",
+      "password": "studpass228",
+      "name": "Student 228",
+      "id": "20250228",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE004-1",
+        "COURSE036-1",
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student229",
+      "password": "studpass229",
+      "name": "Student 229",
+      "id": "20250229",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student230",
+      "password": "studpass230",
+      "name": "Student 230",
+      "id": "20250230",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE009-1",
+        "COURSE030-1",
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student231",
+      "password": "studpass231",
+      "name": "Student 231",
+      "id": "20250231",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE049-1",
+        "COURSE029-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student232",
+      "password": "studpass232",
+      "name": "Student 232",
+      "id": "20250232",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE036-1",
+        "COURSE029-1",
+        "COURSE011-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student233",
+      "password": "studpass233",
+      "name": "Student 233",
+      "id": "20250233",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE029-1",
+        "COURSE017-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student234",
+      "password": "studpass234",
+      "name": "Student 234",
+      "id": "20250234",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student235",
+      "password": "studpass235",
+      "name": "Student 235",
+      "id": "20250235",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE050-1",
+        "COURSE034-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student236",
+      "password": "studpass236",
+      "name": "Student 236",
+      "id": "20250236",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1",
+        "COURSE016-1",
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student237",
+      "password": "studpass237",
+      "name": "Student 237",
+      "id": "20250237",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1",
+        "COURSE046-1",
+        "COURSE019-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student238",
+      "password": "studpass238",
+      "name": "Student 238",
+      "id": "20250238",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student239",
+      "password": "studpass239",
+      "name": "Student 239",
+      "id": "20250239",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE021-1",
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student240",
+      "password": "studpass240",
+      "name": "Student 240",
+      "id": "20250240",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student241",
+      "password": "studpass241",
+      "name": "Student 241",
+      "id": "20250241",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE010-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student242",
+      "password": "studpass242",
+      "name": "Student 242",
+      "id": "20250242",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student243",
+      "password": "studpass243",
+      "name": "Student 243",
+      "id": "20250243",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE046-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student244",
+      "password": "studpass244",
+      "name": "Student 244",
+      "id": "20250244",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student245",
+      "password": "studpass245",
+      "name": "Student 245",
+      "id": "20250245",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE027-1",
+        "COURSE022-1",
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student246",
+      "password": "studpass246",
+      "name": "Student 246",
+      "id": "20250246",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE027-1",
+        "COURSE004-1",
+        "COURSE014-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student247",
+      "password": "studpass247",
+      "name": "Student 247",
+      "id": "20250247",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE025-1",
+        "COURSE050-1",
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student248",
+      "password": "studpass248",
+      "name": "Student 248",
+      "id": "20250248",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student249",
+      "password": "studpass249",
+      "name": "Student 249",
+      "id": "20250249",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE031-1",
+        "COURSE001-1",
+        "COURSE023-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student250",
+      "password": "studpass250",
+      "name": "Student 250",
+      "id": "20250250",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE049-1",
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student251",
+      "password": "studpass251",
+      "name": "Student 251",
+      "id": "20250251",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE035-1",
+        "COURSE048-1",
+        "COURSE039-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student252",
+      "password": "studpass252",
+      "name": "Student 252",
+      "id": "20250252",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE032-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student253",
+      "password": "studpass253",
+      "name": "Student 253",
+      "id": "20250253",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student254",
+      "password": "studpass254",
+      "name": "Student 254",
+      "id": "20250254",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE032-1",
+        "COURSE002-1",
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student255",
+      "password": "studpass255",
+      "name": "Student 255",
+      "id": "20250255",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE043-1",
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student256",
+      "password": "studpass256",
+      "name": "Student 256",
+      "id": "20250256",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE047-1",
+        "COURSE011-1",
+        "COURSE030-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student257",
+      "password": "studpass257",
+      "name": "Student 257",
+      "id": "20250257",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE040-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student258",
+      "password": "studpass258",
+      "name": "Student 258",
+      "id": "20250258",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student259",
+      "password": "studpass259",
+      "name": "Student 259",
+      "id": "20250259",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE038-1",
+        "COURSE037-1",
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student260",
+      "password": "studpass260",
+      "name": "Student 260",
+      "id": "20250260",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student261",
+      "password": "studpass261",
+      "name": "Student 261",
+      "id": "20250261",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student262",
+      "password": "studpass262",
+      "name": "Student 262",
+      "id": "20250262",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE009-1",
+        "COURSE030-1",
+        "COURSE012-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student263",
+      "password": "studpass263",
+      "name": "Student 263",
+      "id": "20250263",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student264",
+      "password": "studpass264",
+      "name": "Student 264",
+      "id": "20250264",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE025-1",
+        "COURSE021-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student265",
+      "password": "studpass265",
+      "name": "Student 265",
+      "id": "20250265",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE030-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student266",
+      "password": "studpass266",
+      "name": "Student 266",
+      "id": "20250266",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE022-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student267",
+      "password": "studpass267",
+      "name": "Student 267",
+      "id": "20250267",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1",
+        "COURSE049-1",
+        "COURSE027-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student268",
+      "password": "studpass268",
+      "name": "Student 268",
+      "id": "20250268",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE006-1",
+        "COURSE031-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student269",
+      "password": "studpass269",
+      "name": "Student 269",
+      "id": "20250269",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student270",
+      "password": "studpass270",
+      "name": "Student 270",
+      "id": "20250270",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student271",
+      "password": "studpass271",
+      "name": "Student 271",
+      "id": "20250271",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE015-1",
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student272",
+      "password": "studpass272",
+      "name": "Student 272",
+      "id": "20250272",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student273",
+      "password": "studpass273",
+      "name": "Student 273",
+      "id": "20250273",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student274",
+      "password": "studpass274",
+      "name": "Student 274",
+      "id": "20250274",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student275",
+      "password": "studpass275",
+      "name": "Student 275",
+      "id": "20250275",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE013-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student276",
+      "password": "studpass276",
+      "name": "Student 276",
+      "id": "20250276",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student277",
+      "password": "studpass277",
+      "name": "Student 277",
+      "id": "20250277",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student278",
+      "password": "studpass278",
+      "name": "Student 278",
+      "id": "20250278",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE031-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student279",
+      "password": "studpass279",
+      "name": "Student 279",
+      "id": "20250279",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student280",
+      "password": "studpass280",
+      "name": "Student 280",
+      "id": "20250280",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE030-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student281",
+      "password": "studpass281",
+      "name": "Student 281",
+      "id": "20250281",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE050-1",
+        "COURSE024-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student282",
+      "password": "studpass282",
+      "name": "Student 282",
+      "id": "20250282",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE039-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student283",
+      "password": "studpass283",
+      "name": "Student 283",
+      "id": "20250283",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student284",
+      "password": "studpass284",
+      "name": "Student 284",
+      "id": "20250284",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE020-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student285",
+      "password": "studpass285",
+      "name": "Student 285",
+      "id": "20250285",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student286",
+      "password": "studpass286",
+      "name": "Student 286",
+      "id": "20250286",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student287",
+      "password": "studpass287",
+      "name": "Student 287",
+      "id": "20250287",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE037-1",
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student288",
+      "password": "studpass288",
+      "name": "Student 288",
+      "id": "20250288",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE026-1",
+        "COURSE046-1",
+        "COURSE013-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student289",
+      "password": "studpass289",
+      "name": "Student 289",
+      "id": "20250289",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student290",
+      "password": "studpass290",
+      "name": "Student 290",
+      "id": "20250290",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student291",
+      "password": "studpass291",
+      "name": "Student 291",
+      "id": "20250291",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE044-1",
+        "COURSE039-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student292",
+      "password": "studpass292",
+      "name": "Student 292",
+      "id": "20250292",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student293",
+      "password": "studpass293",
+      "name": "Student 293",
+      "id": "20250293",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student294",
+      "password": "studpass294",
+      "name": "Student 294",
+      "id": "20250294",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE035-1",
+        "COURSE028-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student295",
+      "password": "studpass295",
+      "name": "Student 295",
+      "id": "20250295",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1",
+        "COURSE033-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student296",
+      "password": "studpass296",
+      "name": "Student 296",
+      "id": "20250296",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE001-1",
+        "COURSE027-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student297",
+      "password": "studpass297",
+      "name": "Student 297",
+      "id": "20250297",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1",
+        "COURSE028-1",
+        "COURSE024-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student298",
+      "password": "studpass298",
+      "name": "Student 298",
+      "id": "20250298",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE046-1",
+        "COURSE010-1",
+        "COURSE028-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student299",
+      "password": "studpass299",
+      "name": "Student 299",
+      "id": "20250299",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE047-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student300",
+      "password": "studpass300",
+      "name": "Student 300",
+      "id": "20250300",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE040-1",
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student301",
+      "password": "studpass301",
+      "name": "Student 301",
+      "id": "20250301",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE030-1",
+        "COURSE028-1",
+        "COURSE047-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student302",
+      "password": "studpass302",
+      "name": "Student 302",
+      "id": "20250302",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE021-1",
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student303",
+      "password": "studpass303",
+      "name": "Student 303",
+      "id": "20250303",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student304",
+      "password": "studpass304",
+      "name": "Student 304",
+      "id": "20250304",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE029-1",
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student305",
+      "password": "studpass305",
+      "name": "Student 305",
+      "id": "20250305",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE037-1",
+        "COURSE040-1",
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student306",
+      "password": "studpass306",
+      "name": "Student 306",
+      "id": "20250306",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE022-1",
+        "COURSE002-1",
+        "COURSE032-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student307",
+      "password": "studpass307",
+      "name": "Student 307",
+      "id": "20250307",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE012-1",
+        "COURSE032-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student308",
+      "password": "studpass308",
+      "name": "Student 308",
+      "id": "20250308",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE023-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student309",
+      "password": "studpass309",
+      "name": "Student 309",
+      "id": "20250309",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE022-1",
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student310",
+      "password": "studpass310",
+      "name": "Student 310",
+      "id": "20250310",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE036-1",
+        "COURSE001-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student311",
+      "password": "studpass311",
+      "name": "Student 311",
+      "id": "20250311",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE006-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student312",
+      "password": "studpass312",
+      "name": "Student 312",
+      "id": "20250312",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE047-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student313",
+      "password": "studpass313",
+      "name": "Student 313",
+      "id": "20250313",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE032-1",
+        "COURSE036-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student314",
+      "password": "studpass314",
+      "name": "Student 314",
+      "id": "20250314",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student315",
+      "password": "studpass315",
+      "name": "Student 315",
+      "id": "20250315",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE042-1",
+        "COURSE046-1",
+        "COURSE032-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student316",
+      "password": "studpass316",
+      "name": "Student 316",
+      "id": "20250316",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE002-1",
+        "COURSE006-1",
+        "COURSE019-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student317",
+      "password": "studpass317",
+      "name": "Student 317",
+      "id": "20250317",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE026-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student318",
+      "password": "studpass318",
+      "name": "Student 318",
+      "id": "20250318",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE020-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student319",
+      "password": "studpass319",
+      "name": "Student 319",
+      "id": "20250319",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE031-1",
+        "COURSE036-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student320",
+      "password": "studpass320",
+      "name": "Student 320",
+      "id": "20250320",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE028-1",
+        "COURSE048-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student321",
+      "password": "studpass321",
+      "name": "Student 321",
+      "id": "20250321",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE023-1",
+        "COURSE045-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student322",
+      "password": "studpass322",
+      "name": "Student 322",
+      "id": "20250322",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1",
+        "COURSE020-1",
+        "COURSE017-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student323",
+      "password": "studpass323",
+      "name": "Student 323",
+      "id": "20250323",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE008-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student324",
+      "password": "studpass324",
+      "name": "Student 324",
+      "id": "20250324",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE021-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student325",
+      "password": "studpass325",
+      "name": "Student 325",
+      "id": "20250325",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student326",
+      "password": "studpass326",
+      "name": "Student 326",
+      "id": "20250326",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE013-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student327",
+      "password": "studpass327",
+      "name": "Student 327",
+      "id": "20250327",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE048-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student328",
+      "password": "studpass328",
+      "name": "Student 328",
+      "id": "20250328",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1",
+        "COURSE047-1",
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student329",
+      "password": "studpass329",
+      "name": "Student 329",
+      "id": "20250329",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1",
+        "COURSE013-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student330",
+      "password": "studpass330",
+      "name": "Student 330",
+      "id": "20250330",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE015-1",
+        "COURSE024-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student331",
+      "password": "studpass331",
+      "name": "Student 331",
+      "id": "20250331",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE020-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student332",
+      "password": "studpass332",
+      "name": "Student 332",
+      "id": "20250332",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student333",
+      "password": "studpass333",
+      "name": "Student 333",
+      "id": "20250333",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student334",
+      "password": "studpass334",
+      "name": "Student 334",
+      "id": "20250334",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student335",
+      "password": "studpass335",
+      "name": "Student 335",
+      "id": "20250335",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student336",
+      "password": "studpass336",
+      "name": "Student 336",
+      "id": "20250336",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1",
+        "COURSE009-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student337",
+      "password": "studpass337",
+      "name": "Student 337",
+      "id": "20250337",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1",
+        "COURSE001-1",
+        "COURSE037-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student338",
+      "password": "studpass338",
+      "name": "Student 338",
+      "id": "20250338",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE031-1",
+        "COURSE029-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student339",
+      "password": "studpass339",
+      "name": "Student 339",
+      "id": "20250339",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE012-1",
+        "COURSE004-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student340",
+      "password": "studpass340",
+      "name": "Student 340",
+      "id": "20250340",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE031-1",
+        "COURSE008-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student341",
+      "password": "studpass341",
+      "name": "Student 341",
+      "id": "20250341",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student342",
+      "password": "studpass342",
+      "name": "Student 342",
+      "id": "20250342",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE032-1",
+        "COURSE005-1",
+        "COURSE037-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student343",
+      "password": "studpass343",
+      "name": "Student 343",
+      "id": "20250343",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student344",
+      "password": "studpass344",
+      "name": "Student 344",
+      "id": "20250344",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE010-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student345",
+      "password": "studpass345",
+      "name": "Student 345",
+      "id": "20250345",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE006-1",
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student346",
+      "password": "studpass346",
+      "name": "Student 346",
+      "id": "20250346",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student347",
+      "password": "studpass347",
+      "name": "Student 347",
+      "id": "20250347",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE039-1",
+        "COURSE040-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student348",
+      "password": "studpass348",
+      "name": "Student 348",
+      "id": "20250348",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE029-1",
+        "COURSE020-1",
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student349",
+      "password": "studpass349",
+      "name": "Student 349",
+      "id": "20250349",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE020-1",
+        "COURSE037-1",
+        "COURSE040-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student350",
+      "password": "studpass350",
+      "name": "Student 350",
+      "id": "20250350",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student351",
+      "password": "studpass351",
+      "name": "Student 351",
+      "id": "20250351",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student352",
+      "password": "studpass352",
+      "name": "Student 352",
+      "id": "20250352",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student353",
+      "password": "studpass353",
+      "name": "Student 353",
+      "id": "20250353",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE017-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student354",
+      "password": "studpass354",
+      "name": "Student 354",
+      "id": "20250354",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student355",
+      "password": "studpass355",
+      "name": "Student 355",
+      "id": "20250355",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student356",
+      "password": "studpass356",
+      "name": "Student 356",
+      "id": "20250356",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE036-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student357",
+      "password": "studpass357",
+      "name": "Student 357",
+      "id": "20250357",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student358",
+      "password": "studpass358",
+      "name": "Student 358",
+      "id": "20250358",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE001-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student359",
+      "password": "studpass359",
+      "name": "Student 359",
+      "id": "20250359",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE029-1",
+        "COURSE045-1",
+        "COURSE039-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student360",
+      "password": "studpass360",
+      "name": "Student 360",
+      "id": "20250360",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE019-1",
+        "COURSE003-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student361",
+      "password": "studpass361",
+      "name": "Student 361",
+      "id": "20250361",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE046-1",
+        "COURSE019-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student362",
+      "password": "studpass362",
+      "name": "Student 362",
+      "id": "20250362",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1",
+        "COURSE044-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student363",
+      "password": "studpass363",
+      "name": "Student 363",
+      "id": "20250363",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1",
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student364",
+      "password": "studpass364",
+      "name": "Student 364",
+      "id": "20250364",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE028-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student365",
+      "password": "studpass365",
+      "name": "Student 365",
+      "id": "20250365",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student366",
+      "password": "studpass366",
+      "name": "Student 366",
+      "id": "20250366",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student367",
+      "password": "studpass367",
+      "name": "Student 367",
+      "id": "20250367",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student368",
+      "password": "studpass368",
+      "name": "Student 368",
+      "id": "20250368",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student369",
+      "password": "studpass369",
+      "name": "Student 369",
+      "id": "20250369",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student370",
+      "password": "studpass370",
+      "name": "Student 370",
+      "id": "20250370",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE020-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student371",
+      "password": "studpass371",
+      "name": "Student 371",
+      "id": "20250371",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE029-1",
+        "COURSE008-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student372",
+      "password": "studpass372",
+      "name": "Student 372",
+      "id": "20250372",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1",
+        "COURSE020-1",
+        "COURSE026-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student373",
+      "password": "studpass373",
+      "name": "Student 373",
+      "id": "20250373",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1",
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student374",
+      "password": "studpass374",
+      "name": "Student 374",
+      "id": "20250374",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE029-1",
+        "COURSE006-1",
+        "COURSE039-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student375",
+      "password": "studpass375",
+      "name": "Student 375",
+      "id": "20250375",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student376",
+      "password": "studpass376",
+      "name": "Student 376",
+      "id": "20250376",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE048-1",
+        "COURSE021-1",
+        "COURSE039-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student377",
+      "password": "studpass377",
+      "name": "Student 377",
+      "id": "20250377",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE002-1",
+        "COURSE006-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student378",
+      "password": "studpass378",
+      "name": "Student 378",
+      "id": "20250378",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student379",
+      "password": "studpass379",
+      "name": "Student 379",
+      "id": "20250379",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student380",
+      "password": "studpass380",
+      "name": "Student 380",
+      "id": "20250380",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE037-1",
+        "COURSE003-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student381",
+      "password": "studpass381",
+      "name": "Student 381",
+      "id": "20250381",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE031-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student382",
+      "password": "studpass382",
+      "name": "Student 382",
+      "id": "20250382",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1",
+        "COURSE012-1",
+        "COURSE038-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student383",
+      "password": "studpass383",
+      "name": "Student 383",
+      "id": "20250383",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1",
+        "COURSE032-1",
+        "COURSE006-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student384",
+      "password": "studpass384",
+      "name": "Student 384",
+      "id": "20250384",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE023-1",
+        "COURSE027-1",
+        "COURSE022-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student385",
+      "password": "studpass385",
+      "name": "Student 385",
+      "id": "20250385",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE043-1",
+        "COURSE007-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student386",
+      "password": "studpass386",
+      "name": "Student 386",
+      "id": "20250386",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE022-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student387",
+      "password": "studpass387",
+      "name": "Student 387",
+      "id": "20250387",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1",
+        "COURSE032-1",
+        "COURSE019-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student388",
+      "password": "studpass388",
+      "name": "Student 388",
+      "id": "20250388",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE049-1",
+        "COURSE036-1",
+        "COURSE003-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student389",
+      "password": "studpass389",
+      "name": "Student 389",
+      "id": "20250389",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE006-1",
+        "COURSE021-1",
+        "COURSE017-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student390",
+      "password": "studpass390",
+      "name": "Student 390",
+      "id": "20250390",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE008-1",
+        "COURSE050-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student391",
+      "password": "studpass391",
+      "name": "Student 391",
+      "id": "20250391",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1",
+        "COURSE001-1",
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student392",
+      "password": "studpass392",
+      "name": "Student 392",
+      "id": "20250392",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE027-1",
+        "COURSE004-1",
+        "COURSE013-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student393",
+      "password": "studpass393",
+      "name": "Student 393",
+      "id": "20250393",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE040-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student394",
+      "password": "studpass394",
+      "name": "Student 394",
+      "id": "20250394",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1",
+        "COURSE029-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student395",
+      "password": "studpass395",
+      "name": "Student 395",
+      "id": "20250395",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student396",
+      "password": "studpass396",
+      "name": "Student 396",
+      "id": "20250396",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student397",
+      "password": "studpass397",
+      "name": "Student 397",
+      "id": "20250397",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE019-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student398",
+      "password": "studpass398",
+      "name": "Student 398",
+      "id": "20250398",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1",
+        "COURSE032-1",
+        "COURSE008-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student399",
+      "password": "studpass399",
+      "name": "Student 399",
+      "id": "20250399",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student400",
+      "password": "studpass400",
+      "name": "Student 400",
+      "id": "20250400",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE046-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student401",
+      "password": "studpass401",
+      "name": "Student 401",
+      "id": "20250401",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE020-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student402",
+      "password": "studpass402",
+      "name": "Student 402",
+      "id": "20250402",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student403",
+      "password": "studpass403",
+      "name": "Student 403",
+      "id": "20250403",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE006-1",
+        "COURSE015-1",
+        "COURSE008-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student404",
+      "password": "studpass404",
+      "name": "Student 404",
+      "id": "20250404",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE008-1",
+        "COURSE042-1",
+        "COURSE010-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student405",
+      "password": "studpass405",
+      "name": "Student 405",
+      "id": "20250405",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE046-1",
+        "COURSE019-1",
+        "COURSE033-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student406",
+      "password": "studpass406",
+      "name": "Student 406",
+      "id": "20250406",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE027-1",
+        "COURSE031-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student407",
+      "password": "studpass407",
+      "name": "Student 407",
+      "id": "20250407",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE016-1",
+        "COURSE030-1",
+        "COURSE036-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student408",
+      "password": "studpass408",
+      "name": "Student 408",
+      "id": "20250408",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student409",
+      "password": "studpass409",
+      "name": "Student 409",
+      "id": "20250409",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE039-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student410",
+      "password": "studpass410",
+      "name": "Student 410",
+      "id": "20250410",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student411",
+      "password": "studpass411",
+      "name": "Student 411",
+      "id": "20250411",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE050-1",
+        "COURSE027-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student412",
+      "password": "studpass412",
+      "name": "Student 412",
+      "id": "20250412",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1",
+        "COURSE018-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student413",
+      "password": "studpass413",
+      "name": "Student 413",
+      "id": "20250413",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student414",
+      "password": "studpass414",
+      "name": "Student 414",
+      "id": "20250414",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE047-1",
+        "COURSE020-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student415",
+      "password": "studpass415",
+      "name": "Student 415",
+      "id": "20250415",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE010-1",
+        "COURSE029-1",
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student416",
+      "password": "studpass416",
+      "name": "Student 416",
+      "id": "20250416",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE023-1",
+        "COURSE022-1",
+        "COURSE036-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student417",
+      "password": "studpass417",
+      "name": "Student 417",
+      "id": "20250417",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE030-1",
+        "COURSE021-1",
+        "COURSE013-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student418",
+      "password": "studpass418",
+      "name": "Student 418",
+      "id": "20250418",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE037-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student419",
+      "password": "studpass419",
+      "name": "Student 419",
+      "id": "20250419",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE015-1",
+        "COURSE050-1",
+        "COURSE027-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student420",
+      "password": "studpass420",
+      "name": "Student 420",
+      "id": "20250420",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student421",
+      "password": "studpass421",
+      "name": "Student 421",
+      "id": "20250421",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE048-1",
+        "COURSE031-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student422",
+      "password": "studpass422",
+      "name": "Student 422",
+      "id": "20250422",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE025-1",
+        "COURSE043-1",
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student423",
+      "password": "studpass423",
+      "name": "Student 423",
+      "id": "20250423",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE032-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student424",
+      "password": "studpass424",
+      "name": "Student 424",
+      "id": "20250424",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student425",
+      "password": "studpass425",
+      "name": "Student 425",
+      "id": "20250425",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE033-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student426",
+      "password": "studpass426",
+      "name": "Student 426",
+      "id": "20250426",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1",
+        "COURSE029-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student427",
+      "password": "studpass427",
+      "name": "Student 427",
+      "id": "20250427",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student428",
+      "password": "studpass428",
+      "name": "Student 428",
+      "id": "20250428",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE001-1",
+        "COURSE047-1",
+        "COURSE010-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student429",
+      "password": "studpass429",
+      "name": "Student 429",
+      "id": "20250429",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE042-1",
+        "COURSE010-1",
+        "COURSE005-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student430",
+      "password": "studpass430",
+      "name": "Student 430",
+      "id": "20250430",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE017-1",
+        "COURSE022-1",
+        "COURSE040-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student431",
+      "password": "studpass431",
+      "name": "Student 431",
+      "id": "20250431",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE042-1",
+        "COURSE006-1",
+        "COURSE022-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student432",
+      "password": "studpass432",
+      "name": "Student 432",
+      "id": "20250432",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE021-1",
+        "COURSE041-1",
+        "COURSE046-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student433",
+      "password": "studpass433",
+      "name": "Student 433",
+      "id": "20250433",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE035-1",
+        "COURSE003-1",
+        "COURSE040-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student434",
+      "password": "studpass434",
+      "name": "Student 434",
+      "id": "20250434",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student435",
+      "password": "studpass435",
+      "name": "Student 435",
+      "id": "20250435",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student436",
+      "password": "studpass436",
+      "name": "Student 436",
+      "id": "20250436",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE015-1",
+        "COURSE048-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student437",
+      "password": "studpass437",
+      "name": "Student 437",
+      "id": "20250437",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student438",
+      "password": "studpass438",
+      "name": "Student 438",
+      "id": "20250438",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1",
+        "COURSE049-1",
+        "COURSE041-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student439",
+      "password": "studpass439",
+      "name": "Student 439",
+      "id": "20250439",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student440",
+      "password": "studpass440",
+      "name": "Student 440",
+      "id": "20250440",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE011-1",
+        "COURSE045-1",
+        "COURSE020-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student441",
+      "password": "studpass441",
+      "name": "Student 441",
+      "id": "20250441",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student442",
+      "password": "studpass442",
+      "name": "Student 442",
+      "id": "20250442",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student443",
+      "password": "studpass443",
+      "name": "Student 443",
+      "id": "20250443",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE004-1",
+        "COURSE019-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student444",
+      "password": "studpass444",
+      "name": "Student 444",
+      "id": "20250444",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE024-1",
+        "COURSE028-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student445",
+      "password": "studpass445",
+      "name": "Student 445",
+      "id": "20250445",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student446",
+      "password": "studpass446",
+      "name": "Student 446",
+      "id": "20250446",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE037-1",
+        "COURSE044-1",
+        "COURSE012-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student447",
+      "password": "studpass447",
+      "name": "Student 447",
+      "id": "20250447",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE012-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student448",
+      "password": "studpass448",
+      "name": "Student 448",
+      "id": "20250448",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student449",
+      "password": "studpass449",
+      "name": "Student 449",
+      "id": "20250449",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE040-1",
+        "COURSE044-1",
+        "COURSE016-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student450",
+      "password": "studpass450",
+      "name": "Student 450",
+      "id": "20250450",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE038-1",
+        "COURSE010-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student451",
+      "password": "studpass451",
+      "name": "Student 451",
+      "id": "20250451",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1",
+        "COURSE017-1",
+        "COURSE030-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student452",
+      "password": "studpass452",
+      "name": "Student 452",
+      "id": "20250452",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE043-1",
+        "COURSE001-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student453",
+      "password": "studpass453",
+      "name": "Student 453",
+      "id": "20250453",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE019-1",
+        "COURSE044-1",
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student454",
+      "password": "studpass454",
+      "name": "Student 454",
+      "id": "20250454",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student455",
+      "password": "studpass455",
+      "name": "Student 455",
+      "id": "20250455",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE023-1",
+        "COURSE038-1",
+        "COURSE020-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student456",
+      "password": "studpass456",
+      "name": "Student 456",
+      "id": "20250456",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1",
+        "COURSE017-1",
+        "COURSE030-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student457",
+      "password": "studpass457",
+      "name": "Student 457",
+      "id": "20250457",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE013-1",
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student458",
+      "password": "studpass458",
+      "name": "Student 458",
+      "id": "20250458",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1",
+        "COURSE016-1",
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student459",
+      "password": "studpass459",
+      "name": "Student 459",
+      "id": "20250459",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE037-1",
+        "COURSE019-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student460",
+      "password": "studpass460",
+      "name": "Student 460",
+      "id": "20250460",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE002-1",
+        "COURSE043-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student461",
+      "password": "studpass461",
+      "name": "Student 461",
+      "id": "20250461",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE018-1",
+        "COURSE001-1",
+        "COURSE037-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student462",
+      "password": "studpass462",
+      "name": "Student 462",
+      "id": "20250462",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student463",
+      "password": "studpass463",
+      "name": "Student 463",
+      "id": "20250463",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE019-1",
+        "COURSE050-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student464",
+      "password": "studpass464",
+      "name": "Student 464",
+      "id": "20250464",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE015-1",
+        "COURSE041-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student465",
+      "password": "studpass465",
+      "name": "Student 465",
+      "id": "20250465",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE040-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student466",
+      "password": "studpass466",
+      "name": "Student 466",
+      "id": "20250466",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE044-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student467",
+      "password": "studpass467",
+      "name": "Student 467",
+      "id": "20250467",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE041-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student468",
+      "password": "studpass468",
+      "name": "Student 468",
+      "id": "20250468",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student469",
+      "password": "studpass469",
+      "name": "Student 469",
+      "id": "20250469",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student470",
+      "password": "studpass470",
+      "name": "Student 470",
+      "id": "20250470",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE029-1",
+        "COURSE003-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student471",
+      "password": "studpass471",
+      "name": "Student 471",
+      "id": "20250471",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE047-1",
+        "COURSE009-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student472",
+      "password": "studpass472",
+      "name": "Student 472",
+      "id": "20250472",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student473",
+      "password": "studpass473",
+      "name": "Student 473",
+      "id": "20250473",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE021-1",
+        "COURSE048-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student474",
+      "password": "studpass474",
+      "name": "Student 474",
+      "id": "20250474",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE012-1",
+        "COURSE013-1",
+        "COURSE009-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student475",
+      "password": "studpass475",
+      "name": "Student 475",
+      "id": "20250475",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE034-1",
+        "COURSE033-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student476",
+      "password": "studpass476",
+      "name": "Student 476",
+      "id": "20250476",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE011-1",
+        "COURSE017-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student477",
+      "password": "studpass477",
+      "name": "Student 477",
+      "id": "20250477",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE019-1",
+        "COURSE048-1",
+        "COURSE022-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student478",
+      "password": "studpass478",
+      "name": "Student 478",
+      "id": "20250478",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student479",
+      "password": "studpass479",
+      "name": "Student 479",
+      "id": "20250479",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE005-1",
+        "COURSE010-1",
+        "COURSE049-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student480",
+      "password": "studpass480",
+      "name": "Student 480",
+      "id": "20250480",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student481",
+      "password": "studpass481",
+      "name": "Student 481",
+      "id": "20250481",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE036-1",
+        "COURSE024-1",
+        "COURSE006-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student482",
+      "password": "studpass482",
+      "name": "Student 482",
+      "id": "20250482",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE001-1",
+        "COURSE017-1",
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student483",
+      "password": "studpass483",
+      "name": "Student 483",
+      "id": "20250483",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student484",
+      "password": "studpass484",
+      "name": "Student 484",
+      "id": "20250484",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE024-1",
+        "COURSE044-1",
+        "COURSE048-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student485",
+      "password": "studpass485",
+      "name": "Student 485",
+      "id": "20250485",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE038-1",
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student486",
+      "password": "studpass486",
+      "name": "Student 486",
+      "id": "20250486",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE007-1",
+        "COURSE044-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student487",
+      "password": "studpass487",
+      "name": "Student 487",
+      "id": "20250487",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE031-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student488",
+      "password": "studpass488",
+      "name": "Student 488",
+      "id": "20250488",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student489",
+      "password": "studpass489",
+      "name": "Student 489",
+      "id": "20250489",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE040-1",
+        "COURSE015-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student490",
+      "password": "studpass490",
+      "name": "Student 490",
+      "id": "20250490",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student491",
+      "password": "studpass491",
+      "name": "Student 491",
+      "id": "20250491",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE045-1",
+        "COURSE020-1",
+        "COURSE042-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student492",
+      "password": "studpass492",
+      "name": "Student 492",
+      "id": "20250492",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE008-1",
+        "COURSE009-1",
+        "COURSE003-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student493",
+      "password": "studpass493",
+      "name": "Student 493",
+      "id": "20250493",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student494",
+      "password": "studpass494",
+      "name": "Student 494",
+      "id": "20250494",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE032-1",
+        "COURSE008-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student495",
+      "password": "studpass495",
+      "name": "Student 495",
+      "id": "20250495",
+      "completedCourses": [],
+      "registeredCourses": [],
+      "pendingCourses": []
+    },
+    {
+      "username": "student496",
+      "password": "studpass496",
+      "name": "Student 496",
+      "id": "20250496",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE035-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student497",
+      "password": "studpass497",
+      "name": "Student 497",
+      "id": "20250497",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE025-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student498",
+      "password": "studpass498",
+      "name": "Student 498",
+      "id": "20250498",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE024-1",
+        "COURSE043-1",
+        "COURSE048-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student499",
+      "password": "studpass499",
+      "name": "Student 499",
+      "id": "20250499",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE038-1",
+        "COURSE048-1",
+        "COURSE047-1"
+      ],
+      "pendingCourses": []
+    },
+    {
+      "username": "student500",
+      "password": "studpass500",
+      "name": "Student 500",
+      "id": "20250500",
+      "completedCourses": [],
+      "registeredCourses": [
+        "COURSE027-1"
+      ],
+      "pendingCourses": []
+    }
+  ],
+  "instructors": [
+    {
+      "username": "instructor1",
+      "password": "instrpass1",
+      "name": "Instructor 1",
+      "expertise": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "username": "instructor2",
+      "password": "instrpass2",
+      "name": "Instructor 2",
+      "expertise": [
+        "Systems",
+        "Security"
+      ]
+    },
+    {
+      "username": "instructor3",
+      "password": "instrpass3",
+      "name": "Instructor 3",
+      "expertise": [
+        "Systems",
+        "Algorithms"
+      ]
+    },
+    {
+      "username": "instructor4",
+      "password": "instrpass4",
+      "name": "Instructor 4",
+      "expertise": [
+        "Security",
+        "Networking",
+        "Databases"
+      ]
+    },
+    {
+      "username": "instructor5",
+      "password": "instrpass5",
+      "name": "Instructor 5",
+      "expertise": [
+        "Algorithms",
+        "AI"
+      ]
+    },
+    {
+      "username": "instructor6",
+      "password": "instrpass6",
+      "name": "Instructor 6",
+      "expertise": [
+        "Networking"
+      ]
+    },
+    {
+      "username": "instructor7",
+      "password": "instrpass7",
+      "name": "Instructor 7",
+      "expertise": [
+        "Algorithms",
+        "Systems",
+        "Programming"
+      ]
+    },
+    {
+      "username": "instructor8",
+      "password": "instrpass8",
+      "name": "Instructor 8",
+      "expertise": [
+        "Databases",
+        "AI",
+        "Web Development"
+      ]
+    },
+    {
+      "username": "instructor9",
+      "password": "instrpass9",
+      "name": "Instructor 9",
+      "expertise": [
+        "Systems",
+        "Networking"
+      ]
+    },
+    {
+      "username": "instructor10",
+      "password": "instrpass10",
+      "name": "Instructor 10",
+      "expertise": [
+        "Web Development"
+      ]
+    },
+    {
+      "username": "instructor11",
+      "password": "instrpass11",
+      "name": "Instructor 11",
+      "expertise": [
+        "Web Development",
+        "Networking"
+      ]
+    },
+    {
+      "username": "instructor12",
+      "password": "instrpass12",
+      "name": "Instructor 12",
+      "expertise": [
+        "Security",
+        "Networking",
+        "Systems"
+      ]
+    },
+    {
+      "username": "instructor13",
+      "password": "instrpass13",
+      "name": "Instructor 13",
+      "expertise": [
+        "Networking",
+        "Programming"
+      ]
+    },
+    {
+      "username": "instructor14",
+      "password": "instrpass14",
+      "name": "Instructor 14",
+      "expertise": [
+        "Programming",
+        "Systems",
+        "Web Development"
+      ]
+    },
+    {
+      "username": "instructor15",
+      "password": "instrpass15",
+      "name": "Instructor 15",
+      "expertise": [
+        "Programming",
+        "Networking"
+      ]
+    },
+    {
+      "username": "instructor16",
+      "password": "instrpass16",
+      "name": "Instructor 16",
+      "expertise": [
+        "Web Development",
+        "Databases"
+      ]
+    },
+    {
+      "username": "instructor17",
+      "password": "instrpass17",
+      "name": "Instructor 17",
+      "expertise": [
+        "Web Development",
+        "Systems",
+        "Programming"
+      ]
+    },
+    {
+      "username": "instructor18",
+      "password": "instrpass18",
+      "name": "Instructor 18",
+      "expertise": [
+        "Security"
+      ]
+    },
+    {
+      "username": "instructor19",
+      "password": "instrpass19",
+      "name": "Instructor 19",
+      "expertise": [
+        "Algorithms"
+      ]
+    },
+    {
+      "username": "instructor20",
+      "password": "instrpass20",
+      "name": "Instructor 20",
+      "expertise": [
+        "Systems",
+        "Programming",
+        "AI"
+      ]
+    }
+  ],
+  "admins": [
+    {
+      "username": "admin1",
+      "password": "adminpass1",
+      "name": "Admin 1"
+    },
+    {
+      "username": "admin2",
+      "password": "adminpass2",
+      "name": "Admin 2"
+    },
+    {
+      "username": "admin3",
+      "password": "adminpass3",
+      "name": "Admin 3"
+    },
+    {
+      "username": "admin4",
+      "password": "adminpass4",
+      "name": "Admin 4"
+    },
+    {
+      "username": "admin5",
+      "password": "adminpass5",
+      "name": "Admin 5"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// NextAuth.js models
+model Account {
+  id                 Int      @id @default(autoincrement())
+  userId             Int
+  type               String
+  provider           String
+  providerAccountId  String
+  refresh_token      String?  @map("refresh_token")
+  access_token       String?  @map("access_token")
+  expires_at         Int?     @map("expires_at")
+  token_type         String?  @map("token_type")
+  scope              String?
+  id_token           String?  @map("id_token")
+  session_state      String?  @map("session_state")
+  oauth_token_secret String?  @map("oauth_token_secret")
+  oauth_token        String?  @map("oauth_token")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+  @@map("accounts")
+}
+
+model Session {
+  id           Int      @id @default(autoincrement())
+  sessionToken String   @unique
+  userId       Int
+  expires      DateTime
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  @@map("sessions")
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+  @@map("verification_tokens")
+}
+
+// Application models
+model User {
+  id         Int       @id @default(autoincrement())
+  username   String    @unique
+  password   String?
+  name       String
+  role       String    // ADMIN, INSTRUCTOR, STUDENT
+
+  studentProfile    StudentProfile?
+  instructorProfile InstructorProfile?
+  accounts          Account[]
+  sessions          Session[]
+}
+
+model InstructorProfile {
+  id        Int     @id @default(autoincrement())
+  bio       String?
+  userId    Int     @unique
+
+  user      User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  expertise InstructorExpertise[]
+  classes   Class[]
+}
+
+model InstructorExpertise {
+  id                    Int                 @id @default(autoincrement())
+  instructorProfileId   Int
+  expertise             String
+
+  instructorProfile     InstructorProfile   @relation(fields: [instructorProfileId], references: [id], onDelete: Cascade)
+}
+
+model StudentProfile {
+  id                   Int               @id @default(autoincrement())
+  userId               Int               @unique
+
+  user                 User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  registrations        Registration[]
+  completedCourses     CompletedCourse[]
+}
+
+model Course {
+  id                   Int               @id @default(autoincrement())
+  code                 String            @unique
+  name                 String
+  category             String
+  status               String            // OPEN, CLOSED
+
+  classes              Class[]
+  prerequisites        Prerequisite[]
+  completedCourses     CompletedCourse[]
+}
+
+model Prerequisite {
+  id          Int     @id @default(autoincrement())
+  courseId    Int
+  prerequisite String
+
+  course      Course  @relation(fields: [courseId], references: [id], onDelete: Cascade)
+}
+
+model Class {
+  id             Int                  @id @default(autoincrement())
+  classId        String               @unique
+  instructorId   Int
+  courseId       Int
+  schedule       String
+  capacity       Int
+  validated      Boolean              @default(false)
+
+  instructor     InstructorProfile    @relation(fields: [instructorId], references: [id], onDelete: Cascade)
+  course         Course               @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  registrations  Registration[]
+}
+
+model Registration {
+  id                   Int      @id @default(autoincrement())
+  studentProfileId     Int
+  classId              Int
+  status               String   @default("PENDING")
+  createdAt            DateTime @default(now())
+
+  studentProfile       StudentProfile @relation(fields: [studentProfileId], references: [id], onDelete: Cascade)
+  class                Class          @relation(fields: [classId], references: [id], onDelete: Cascade)
+}
+
+model CompletedCourse {
+  id                   Int     @id @default(autoincrement())
+  studentProfileId     Int
+  courseId             Int
+  grade                String
+
+  studentProfile       StudentProfile @relation(fields: [studentProfileId], references: [id], onDelete: Cascade)
+  course               Course         @relation(fields: [courseId], references: [id], onDelete: Cascade)
+}
