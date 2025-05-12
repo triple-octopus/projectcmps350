@@ -1,7 +1,4 @@
-// lib/repos/statsRepo.js
 import { prisma } from "../prisma";
-
-// 1. Total counts
 export async function totalCounts() {
   const [students, instructors, courses] = await Promise.all([
     prisma.studentProfile.count(),
@@ -10,8 +7,6 @@ export async function totalCounts() {
   ]);
   return { students, instructors, courses };
 }
-
-// 2. Average course load per student
 export async function avgCourseLoad() {
   const result = await prisma.registration.groupBy({
     by: ["studentProfileId"],
@@ -21,8 +16,6 @@ export async function avgCourseLoad() {
     result.reduce((sum, r) => sum + r._count.id, 0) / result.length || 0;
   return avg;
 }
-
-// 3. Top requested courses
 export async function topRequestedCourses(limit = 5) {
   const raw = await prisma.registration.groupBy({
     by: ["classId"],
@@ -41,8 +34,6 @@ export async function topRequestedCourses(limit = 5) {
   );
   return courses;
 }
-
-// 4. Registration approval rate
 export async function registrationApprovalRate() {
   const total = await prisma.registration.count();
   const approved = await prisma.registration.count({
@@ -50,8 +41,6 @@ export async function registrationApprovalRate() {
   });
   return total ? approved / total : 0;
 }
-
-// 5. Grade distribution
 export async function gradeDistribution() {
     const raw = await prisma.completedCourse.groupBy({
       by: ["grade"],
@@ -63,7 +52,6 @@ export async function gradeDistribution() {
     }));
   }
 
-// 6. Courses nearing capacity (>=80%)
 export async function coursesNearingCapacity(threshold = 0.8) {
   const courses = await prisma.course.findMany({
     include: { classes: { include: { registrations: true } } },
@@ -78,8 +66,6 @@ export async function coursesNearingCapacity(threshold = 0.8) {
     return enrolled / c.capacity >= threshold;
   });
 }
-
-// 7. Instructors by class count
 export async function instructorsByClassCount(limit = 5) {
   const raw = await prisma.class.groupBy({
     by: ["instructorId"],
@@ -97,15 +83,11 @@ export async function instructorsByClassCount(limit = 5) {
     })
   );
 }
-
-// 8. Pending registration count
 export async function pendingRegistrationCount() {
   return prisma.registration.count({
     where: { status: "PENDING" },
   });
 }
-
-// 9. Withdrawal rate (denied + dropped) / total
 export async function withdrawalRate() {
   const total = await prisma.registration.count();
   const denied = await prisma.registration.count({
@@ -113,13 +95,10 @@ export async function withdrawalRate() {
   });
   return total ? denied / total : 0;
 }
-
-// 10. Students with more than N completed courses
 export async function studentsWithCompletedMoreThan(n = 5) {
-  const raw = await prisma.completedCourse.groupBy({
-    by: ["studentProfileId"],
-    _count: { id: true },
-    having: { _count: { id: { gt: n } } },
-  });
-  return raw.length;
-}
+    const raw = await prisma.completedCourse.groupBy({
+      by: ["studentProfileId"],
+      _count: { id: true },
+    });
+      return raw.filter((r) => r._count.id > n).length;
+  }
